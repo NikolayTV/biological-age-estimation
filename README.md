@@ -4,7 +4,7 @@ This repo contains code and front-end part for biological age calculation by Kle
 Use the following command to run the fron-end part.
 
 ```
-streamlit run front/clock.py
+streamlit run streamlit_app.py
 ```
 
 
