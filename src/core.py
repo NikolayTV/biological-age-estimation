@@ -5,10 +5,12 @@ from joblib import load
 
 def predict_and_average(X, models_paths):
     predictions = 0
+    preds = []
     for model_filename in models_paths:
         model = load(model_filename)
         features = model.feature_names_
         pred = model.predict(X[features])
+        preds.append(pred)
         predictions += pred
     
     predictions /= len(models_paths)
