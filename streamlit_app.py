@@ -145,7 +145,6 @@ def main():
         st.write(f"Ваши значения: {list(zip(required_features, biomarker_values))}")
         
     st.divider()
-    
 
     st.title("FAQ")
     # Folding text with info about the principle of biological age computation
