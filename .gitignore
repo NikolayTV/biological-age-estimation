@@ -7,7 +7,6 @@ catboost_info
 *.so
 
 #data and aux
-data/
 Biological-Age-Project/
 
 # Distribution / packaging
