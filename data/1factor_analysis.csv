@@ -1,0 +1,1038 @@
+,Feature,R-squared,Non-Null Values,Unique Ages Amount,Note
+0,Predicted maximal heart rate (per minute),0.9999972099546571,14417,38,Too few unique ages
+1,PCB196 & 203 (ng/g),0.7620287171550773,1878,74,Not enough data
+2,PCB209 (ng/g),0.7506105157305636,1854,74,Not enough data
+3,Recumbent Length (cm),0.7477010672496875,10753,3,Too few unique ages
+4,PCB196 & 203 Lipid Adj (ng/g),0.7419790219758305,1878,74,Not enough data
+5,PCB194 (ng/g),0.7301311742212285,4114,74,Not enough data
+6,PCB199 (ng/g),0.7288369337141903,4153,74,Not enough data
+7,PCB180 (ng/g),0.7217671864887989,6122,74,Not enough data
+8,PCB209 Lipid Adj (ng/g),0.7137159569971565,1854,74,Not enough data
+9,PCB138 & 158 (ng/g),0.7029714530841791,1896,74,Not enough data
+10,PCB170 (ng/g),0.6925605385336777,5987,74,Not enough data
+11,PCB180 Lipid Adj (ng/g),0.6860901141239699,6122,74,Not enough data
+12,Oxychlordane (ng/g),0.6860355224580843,5888,74,Not enough data
+13,PCB194 Lipid Adj (ng/g),0.6673218369500911,4114,74,Not enough data
+14,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Time (seconds)",0.6651658938193252,1564,74,Not enough data
+15,PCB199 Lipid Adj (ng/g),0.6648696738251143,4153,74,Not enough data
+16,Trans-nonachlor (ng/g),0.6646184066102986,6174,74,Not enough data
+17,PCB138 & 158 Lipid Adj (ng/g),0.664009629718961,1896,74,Not enough data
+18,PCB187 (ng/g),0.663203664882673,6126,74,Not enough data
+19,PCB196 (ng/g),0.6627472388974429,2299,74,Not enough data
+20,Oxychlordane Lipid Adj (ng/g),0.6625394224656552,5888,74,Not enough data
+21,PCB153 (ng/g),0.6568045748362552,6128,74,Not enough data
+22,Trans-nonachlor Lipid Adj (ng/g),0.6408333030706983,6174,74,Not enough data
+23,"3,3',4,4',5,5'-hexachlorobiphenyl (fg/g)",0.6335789495749244,4977,74,Not enough data
+24,PCB170 Lipid Adj (ng/g),0.6239035208788711,5987,74,Not enough data
+25,PCB156 (ng/g),0.6225724660697229,6083,74,Not enough data
+26,PCB74 (ng/g),0.618423965146199,6129,74,Not enough data
+27,PCB138 (ng/g),0.6155949206474399,4223,74,Not enough data
+28,Amputations: Lower Left Extremity?,0.6154297356424704,3,3,Too few unique ages; Not enough data
+29,PCB196 Lipid Adj (ng/g),0.6092032893970714,2299,74,Not enough data
+30,PCB153 Lipid Adj (ng/g),0.5966669809814089,6128,74,Not enough data
+31,PCB187 Lipid Adj (ng/g),0.5932415558647731,6126,74,Not enough data
+32,"3,3',4,4',5,5'-hexachlorobiphenyl Lipid Adj (pg/g)",0.5826257769541808,4977,74,Not enough data
+33,PCB118 (ng/g),0.5799543246072898,6120,74,Not enough data
+34,Follicle stimulating hormone (mIU/mL),0.5530621137984284,1779,26,Too few unique ages; Not enough data
+35,PCB74 Lipid Adj (ng/g),0.5404833344410724,6129,74,Not enough data
+36,Biiliac breadth (cm) (2 years and over),0.5394740494431385,26379,89,
+37,PCB146 (ng/g),0.536058173893397,6116,74,Not enough data
+38,PCB138 Lipid Adj (ng/g),0.5357082458591476,4223,74,Not enough data
+39,Beta-hexachlorocyclohexane (ng/g),0.5250290174143647,6143,74,Not enough data
+40,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin (fg/g)",0.5250204500852429,4990,74,Not enough data
+41,PCB118 Lipid Adj (ng/g),0.512638139229713,6120,74,Not enough data
+42,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin Lipid Adj (pg/g)",0.5124222243123042,4990,74,Not enough data
+43,PCB156 Lipid Adj (ng/g),0.5104416619175237,6083,74,Not enough data
+44,"Baseline 1st Test Spirometry, Forced Expiratory Time, in seconds.",0.494257237295713,20049,74,
+45,FEF at 75% of FVC (ml),0.49092449040099695,20654,83,
+46,Beta-hexachlorocyclohexane Lipid Adj (ng/g),0.4905398367990592,6143,74,Not enough data
+47,Toxoplasmosis IgG Avidity (IU/ml),0.4862278565351652,86,45,Too few unique ages; Not enough data
+48,Waist Circumference (cm),0.48280628486033594,111013,90,
+49,PCB206 (ng/g),0.4725440229394313,4075,74,Not enough data
+50,Buttocks circumference (cm) (2+ years),0.47188196116330205,26316,89,
+51,PCB99 (ng/g),0.4703080739853479,6055,74,Not enough data
+52,"2,3,4,7,8-Pentachlorodibenzofuran (fg/g)",0.4582984651818983,4996,74,Not enough data
+53,Head Circumference (cm),0.45497010437664487,6626,7,Too few unique ages; Not enough data
+54,60 sec HR (30 sec HR * 2),0.45420606853141454,15183,8,Too few unique ages
+55,"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin (fg/g)",0.4531594865238988,4943,74,Not enough data
+56,Systolic blood pressure average,0.4468424361081149,15052,79,
+57,Wrist breadth (cm) (2 years and over),0.4440292707334389,26562,89,
+58,"2,2',4,4',5,5'-hexabromobiphenyl (pg/g)",0.44210970484033807,2032,74,Not enough data
+59,MIL: maximum inflation levels (mm Hg),0.4409684796429181,96927,86,
+60,Elbow breadth (cm) (2 years and over),0.4405693224985554,26567,89,
+61,Weight (kg),0.435970165760456,120107,90,
+62,Systolic: Average blood pressure (mm Hg),0.4327309298374651,97236,86,
+63,"3,3',4,4',5-Pentachlorobiphenyl (pncb) (pg/g)",0.429256908367331,4982,74,Not enough data
+64,Serum luteinizing hormone: SI (IU/L),0.423890517472421,4908,26,Too few unique ages; Not enough data
+65,Systolic: Blood pressure (first reading) mm Hg,0.4208879489813325,91754,86,
+66,CD8 counts (cells/mm3),0.4201372127678963,157,29,Too few unique ages; Not enough data
+67,Luteinizing hormone (mIU/mL),0.41541217564794686,1777,26,Too few unique ages; Not enough data
+68,Sitting height (cm) (2 years and over),0.4127820719621663,27021,89,
+69,Arm Circumference (cm),0.4116952337004919,116370,90,
+70,"p,p'-DDE (ng/g)",0.41016575476632977,6218,74,Not enough data
+71,Sagittal Abdominal Diameter 3rd (cm),0.4091619524796075,1109,73,Not enough data
+72,Upper Arm Length (cm),0.4086638467267478,116001,90,
+73,Serum homocysteine: SI (umol/L),0.40857244068707577,37144,88,
+74,"2,2',4,4',5,5'-hexabromobiphenyl lipid adj (pg/g)",0.4078965049324075,2032,74,Not enough data
+75,Sagittal Abdominal Diameter 4th (cm),0.40394140431300074,1109,73,Not enough data
+76,PCB183 (ng/g),0.4038412000975803,6120,74,Not enough data
+77,Standing height (in) (2 years and over),0.4034886517643873,27935,89,
+78,"3,3',4,4',5-Pentachlorobiphenyl (pncb) Lipid Adj (pg/g)",0.40004749820599417,4982,74,Not enough data
+79,Systolic: Blood pressure (second reading) mm Hg,0.3990711382966694,91099,86,
+80,Dieldrin (ng/g),0.39676437131569897,4111,74,Not enough data
+81,Estimated Glomerular Filtration Rate (mL/min/1.73 m2),0.3929493940526696,82687,79,
+82,Systolic: Blood pressure (fourth reading if necessary) mm Hg,0.3925480481643038,8466,79,Not enough data
+83,"2,3,4,7,8-Pentachlorodibenzofuran Lipid Adj (pg/g)",0.39232955278794024,4996,74,Not enough data
+84,Systolic: Blood pressure (third reading) mm Hg,0.3874897521520234,90395,86,
+85,"1,2,3,4,7,8-Hexachlorodibenzofuran (fg/g)",0.3868273092424147,4979,74,Not enough data
+86,alpha-tocopherol (µg/dL),0.38377200697360814,36953,83,
+87,CD4 counts (cells/mm3),0.38309455851664875,157,29,Too few unique ages; Not enough data
+88,"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin Lipid Adj (pg/g)",0.38252442726620894,4943,74,Not enough data
+89,PCB146 Lipid Adj (ng/g),0.3824804727205636,6116,74,Not enough data
+90,PCB206 Lipid Adj (ng/g),0.38194743840741496,4075,74,Not enough data
+91,Estimated Glomerular Filtration Rate race-adjusted (mL/min/1.73 m2),0.3781017219933376,82687,79,
+92,PCB195 Lipid Adj (ng/g),0.3732202051790433,4050,74,Not enough data
+93,Heptachlor Epoxide (ng/g),0.3716846173497873,5811,74,Not enough data
+94,Biacromial breadth (cm)(3 years and over),0.3715080221875203,25384,88,
+95,Body Mass Index (kg/m**2),0.36689658150926296,115629,89,
+96,"1,2,3,4,6,7,8-Heptachlororodibenzo-p-dioxin (fg/g)",0.36551144646551514,4988,74,Not enough data
+97,PCB99 Lipid Adj (ng/g),0.36317138691367146,6055,74,Not enough data
+98,"p,p'-DDE Lipid Adj (ng/g)",0.3603434854085622,6218,74,Not enough data
+99,PCB178 (ng/g),0.3557486059217897,6118,74,Not enough data
+100,N-telopeptides (NTx) (nmol BCE),0.35491208023318555,11675,78,
+101,Branched iso of PFOS (ng/mL),0.3461971227580305,6401,78,Not enough data
+102,"4-hydroxy-4-(3-pyridyl) butanoic acid, urine (ng/mL)",0.34494513104001834,548,77,Not enough data
+103,Standing Height (cm),0.3438108449936693,116174,89,
+104,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin (fg/g)",0.3417112842076757,3100,74,Not enough data
+105,Standing Height Comment,0.3413444529449474,2140,84,Not enough data
+106,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Flow Rate 25-75%, (mL/s)",0.33905137651498074,1564,74,Not enough data
+107,Blood cadmium (ug/L),0.337821998951472,76389,85,
+108,Dieldrin Lipid Adj (ng/g),0.33458370577478624,4111,74,Not enough data
+109,Subscapular Skinfold (mm),0.3335089685510302,74059,90,
+110,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin (fg/g)",0.33128761874968216,5029,74,Not enough data
+111,Bone alkaline phosphotase (ug/L),0.3234291196677631,18841,78,
+112,Predicted maximal oxygen uptake (ml/kg/min),0.32050482865146546,9887,38,Too few unique ages
+113,"1-(3-Pyridyl)-1-butanol-4-carboxylic acid, urine (ng/mL)",0.31999396286314374,553,76,Not enough data
+114,Average Sagittal Abdominal Diameter (cm),0.3191041010245047,20996,73,
+115,Sagittal Abdominal Diameter 1st (cm),0.3187774733360137,20996,73,
+116,Sagittal Abdominal Diameter 2nd (cm),0.3184082338484804,20996,73,
+117,PCB177 (ng/g),0.31650854183918,6042,74,Not enough data
+118,Max mid-expiratory flow(ml/sec best crv),0.31213562630963587,20654,83,
+119,PCB172 (ng/g),0.30858113531226916,5978,74,Not enough data
+120,"1,2,3,4,6,7,8-Heptachlororodibenzo-p-dioxin Lipid Adj (pg/g)",0.3042239174237181,4988,74,Not enough data
+121,"1,2,3,6,7,8-Hexachlorodibenzofuran (fg/g)",0.3040930010633067,5002,74,Not enough data
+122,PCB105 (ng/g),0.2990826167659386,6101,74,Not enough data
+123,BIA reactance (ohms) (12 years and over),0.29303199046971284,17816,79,
+124,Serum ferritin:  SI (ug/L),0.2923819652181481,63796,90,
+125,Serum ferritin (ng/mL),0.2923819652181481,63796,90,
+126,Vitamin A (ug/dL),0.2875668596295645,60499,88,
+127,Blood Pressure Time in Seconds,0.28756104025254303,72894,85,
+128,Heptachlor Epoxide Lipid Adj (ng/g),0.28604155627598304,5811,74,Not enough data
+129,PCB195 (ng/g),0.28493191945830154,4050,74,Not enough data
+130,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin Lipid Adj (pg/g)",0.2837917103390757,3100,74,Not enough data
+131,PCB167 (ng/g),0.28165899241001324,6070,74,Not enough data
+132,"1,2,3,4,7,8-Hexachlorodibenzofuran Lipid Adj (pg/g)",0.2769922288180915,4979,74,Not enough data
+133,Suprailiac skinfold (mm) (2+ years),0.27113693204443534,25542,89,
+134,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin Lipid Adj (pg/g)",0.2681115692600977,5029,74,Not enough data
+135,Glycohemoglobin (%),0.2666784303238663,88428,87,
+136,Estimated extracellular fluid volume (L),0.2644037557010628,12746,42,Too few unique ages
+137,LBXTC2_y,0.2588702967966152,2362,87,Not enough data
+138,Estimated total water body volume (L),0.25716837231328116,12746,42,Too few unique ages
+139,Mean cell volume (fL),0.2564220127275556,109362,90,
+140,PCB157 (ng/g),0.255522104147903,6049,74,Not enough data
+141,Estimated fat-free mass (kg),0.255037470258916,12746,42,Too few unique ages
+142,Urinary cadmium (ng/mL),0.2546004778499973,48926,88,
+143,Serum tetanus antibody (U/mL),0.25365908070793164,19584,87,
+144,PCB183 Lipid Adj (ng/g),0.2532190278274208,6120,74,Not enough data
+145,"Nicotine-1 N-oxide, urine (ng/mL)",0.2513312453192501,1716,78,Not enough data
+146,PCB172 Lipid Adj (ng/g),0.2506965440492259,5978,74,Not enough data
+147,Linear perfluorooctane sulfonate (ng/mL),0.25030755742396904,6401,78,Not enough data
+148,"Anatabine, urine (ng/mL)",0.24987767679244588,1716,78,Not enough data
+149,Comment code for an exam,0.24739945232274108,133,62,Not enough data
+150,"Cotinine-n-oxide, urine (ng/mL)",0.2454843986994294,1716,78,Not enough data
+151,"Nornicotine, urine (ng/mL)",0.245411725172774,1715,78,Not enough data
+152,Estimated intracellular fluid volume (L),0.2450135935046832,12746,42,Too few unique ages
+153,"Nicotine, urine (ng/mL)",0.24391969075651299,1716,78,Not enough data
+154,Characteristic frequency of the equivalent circuit (KHz),0.24365046193503015,12971,42,Too few unique ages
+155,Serum Blood Urea Nitrogen: SI (mmol/L),0.24246148076853424,82771,79,
+156,"Anabasine, urine (ng/mL)",0.24111040311353782,1716,78,Not enough data
+157,Serum blood urea nitrogen (mg/dL),0.2391647028645818,82771,79,
+158,Relative Florescent Value,0.23858680505784124,255,38,Too few unique ages; Not enough data
+159,Plasma glucose: SI (mmol/L),0.23610426533004147,25545,79,
+160,Excluded from exam due to selected lung/breathing conditions/symptoms,0.23380484731710882,2626,38,Too few unique ages; Not enough data
+161,PCB157 Lipid Adj (ng/g),0.23213784673289695,6049,74,Not enough data
+162,PCB178 Lipid Adj (ng/g),0.2315313628141651,6118,74,Not enough data
+163,Capacitance (nF) of the cell membrane from Cole modeling,0.22564331474982935,12971,42,Too few unique ages
+164,Urinary Perfluorononanoic acid (ng/mL),0.22552327937635763,2737,78,Not enough data
+165,Urinary Perfluorohexane sulfonic acid (ng/mL),0.22551069067100316,2737,78,Not enough data
+166,PCB177 Lipid Adj (ng/g),0.2227634762254329,6042,74,Not enough data
+167,"p,p'-DDT (ng/g)",0.22010810724155971,5949,74,Not enough data
+168,PCB167 Lipid Adj (ng/g),0.21860085699687015,6070,74,Not enough data
+169,Plasma fasting glucose (mg/dL),0.21704848366125584,47237,79,
+170,Stage 2 heart rate (per minute),0.2105443894891691,8426,38,Too few unique ages; Not enough data
+171,Cyanuric acid (ng/mL),0.20784680800903654,444,76,Not enough data
+172,Measurements used for average K5 (age5+),0.20707297403575853,1783,85,Not enough data
+173,"1,2,3,6,7,8-Hexachlorodibenzofuran Lipid Adj (pg/g)",0.2063091947856016,5002,74,Not enough data
+174,PCB189 Lipid Adj (ng/g),0.2053846104545436,4115,74,Not enough data
+175,"Bronchodilator 2nd Test Spirometry, Forced Vital Capacity (mL)",0.20293509602469195,1564,74,Not enough data
+176,"Expiratory time trial, largest FVC (sec)",0.20275418836205072,20864,83,
+177,PCB105 Lipid Adj (ng/g),0.20225704566979896,6101,74,Not enough data
+178,Thigh Circumference (cm),0.20205903506432732,55704,89,
+179,High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L),0.20181986282995856,15117,80,
+180,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin (fg/g)",0.19848186521159683,4977,74,Not enough data
+181,Linear perfluorooctanoate (ng/mL),0.1939700876900714,6401,78,Not enough data
+182,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Volume in the first 6.0 seconds (mL)",0.19324447935924138,1564,74,Not enough data
+183,Two hour oral glucose tolerance (OGTT) (mg/dL),0.1900383922173362,13842,74,
+184,"K4, diastolic, for 3rd BP(mmHg)(age5-19)",0.1881869114275968,5720,15,Too few unique ages; Not enough data
+185,Mean cell hemoglobin (pg),0.18774784088972984,109361,90,
+186,Melamine (ng/mL),0.18720374741231371,484,77,Not enough data
+187,Mirex (ng/g),0.1846311199356898,6061,74,Not enough data
+188,"2,3,7,8-Tetrachlorodienzo-p-dioxin (fg/g)",0.18368923652082547,5002,74,Not enough data
+189,"K4,diastolic, for 2nd BP, age 5-19 (mmHg)",0.18137194469571727,5787,15,Too few unique ages; Not enough data
+190,"p,p'-DDT Lipid Adj (ng/g)",0.17960740262357977,5949,74,Not enough data
+191,4Yr AM(3-11) & fasting (12+) weights,0.17743067634242693,8379,83,Not enough data
+192,Lymphocytes (percent of 100 cells),0.17701196906937666,8524,90,Not enough data
+193,Serum glucose (mg/dL),0.17414856726272565,82765,79,
+194,Mono-2-ethyl-5-carboxypentyl terephthalate (ug/L),0.17368801535380873,5155,78,Not enough data
+195,Granulocyte percent (Coulter),0.17251177657176087,26032,90,
+196,Reactance (Ohms) @ 220 KHz,0.17194974138099017,13276,42,Too few unique ages
+197,Reactance (Ohms) @ 200 KHz,0.1713443504174833,13276,42,Too few unique ages
+198,Estimated fat mass (kg),0.17123167514149396,12746,42,Too few unique ages
+199,Reactance (Ohms) @ 245 KHz,0.17100956584436766,13276,42,Too few unique ages
+200,"2,2',4-tribromodiphenyl ether lipid adj (ng/g)",0.1703288025175359,1992,74,Not enough data
+201,Reactance (Ohms) @ 273 KHz,0.16954492839444013,13276,42,Too few unique ages
+202,Resistance (Ohms) @ 35 KHz,0.169503924975261,13276,42,Too few unique ages
+203,Resistance (Ohms) @ 39 KHz,0.16937405988673127,13276,42,Too few unique ages
+204,Resistance (Ohms) @ 67 KHz,0.16918006277206477,13276,42,Too few unique ages
+205,Resistance (Ohms) @ 50 KHz,0.16894742456176182,13276,42,Too few unique ages
+206,"K4, diastolic, for 1st BP(mmHg)(age5-19)",0.1687565515061914,5418,15,Too few unique ages; Not enough data
+207,Reactance (Ohms) @ 177 KHz,0.16869596728154634,13276,42,Too few unique ages
+208,Resistance (Ohms) @ 43 KHz,0.16815789261833114,13276,42,Too few unique ages
+209,Resistance (Ohms) @ 60 KHz,0.16813253970243724,13276,42,Too few unique ages
+210,Resistance (Ohms) @ 54 KHz,0.16790037479049424,13276,42,Too few unique ages
+211,Reactance (Ohms) @ 159 KHz,0.1678124384423093,13276,42,Too few unique ages
+212,Stage 1 heart rate (per minute),0.16746256195260578,9166,38,Too few unique ages
+213,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Volume in the first 3.0 seconds (mL)",0.16710522096796987,1564,74,Not enough data
+214,Reactance (Ohms) @ 143 KHz,0.16710464351811027,13276,42,Too few unique ages
+215,Lymphocyte percent (Coulter) (%),0.16697570117226435,109182,90,
+216,Resistance (Ohms) @ 75 KHz,0.1668174063165292,13276,42,Too few unique ages
+217,Resistance (Ohms) @ 93 KHz,0.16660195315619553,13276,42,Too few unique ages
+218,Resistance (Ohms) @ 25 KHz,0.16651672433090225,13276,42,Too few unique ages
+219,Reactance (Ohms) @ 304 KHz,0.16641090057511532,13276,42,Too few unique ages
+220,Resistance (Ohms) @ 31 KHz,0.16640557034848358,13276,42,Too few unique ages
+221,Resistance (Ohms) @ 83 KHz,0.16611723418944546,13276,42,Too few unique ages
+222,Resistance (Ohms) @ 100 KHz,0.16572869436873905,13276,42,Too few unique ages
+223,Resistance (Ohms) @ 28 KHz,0.165416189098042,13276,42,Too few unique ages
+224,Resistance (Ohms) @ 115 KHz,0.1650268780596279,13276,42,Too few unique ages
+225,Endrin Lipid Adj (ng/g),0.1649530931913724,4012,74,Not enough data
+226,Resistance (Ohms) @ 23 KHz,0.16489842523150744,13276,42,Too few unique ages
+227,Aldrin Lipid Adj (ng/g),0.16454157778641532,4221,74,Not enough data
+228,Resistance (Ohms) @ 20 KHz,0.1644634082215003,13276,42,Too few unique ages
+229,Reactance (Ohms) @ 339 KHz,0.16410759067525316,13276,42,Too few unique ages
+230,Resistance (Ohms) @ 128 KHz,0.16393268492242108,13276,42,Too few unique ages
+231,Serum C-reactive protein (mg/dL),0.16389031041308222,69983,90,
+232,Lymphocyte number (Coulter) (1000 cells/uL),0.16270706612191188,109179,90,
+233,Resistance (Ohms) @ 18 KHz,0.16263580653879717,13276,42,Too few unique ages
+234,Resistance (Ohms) @ 143 KHz,0.16256373125500378,13276,42,Too few unique ages
+235,Cuff size (cm),0.16226984946408574,97108,86,
+236,Resistance (Ohms) @ 159 KHz,0.16202795984922003,13276,42,Too few unique ages
+237,Resistance (Ohms) @ 15 KHz,0.16151575653364625,13276,42,Too few unique ages
+238,Resistance (Ohms) @ 177 KHz,0.16137883345920268,13276,42,Too few unique ages
+239,Reactance (Ohms) @ 378 KHz,0.16130007946720526,13276,42,Too few unique ages
+240,Resistance (Ohms) @ 16 KHz,0.16126199040420575,13276,42,Too few unique ages
+241,Resistance (Ohms) @ 200 KHz,0.16119535393372708,13276,42,Too few unique ages
+242,Resistance (Ohms) @ 11 KHz,0.16100579648660862,13276,42,Too few unique ages
+243,"2,2',3,4,4'-pentabromodiphenyl ether lipid adj (ng/g)",0.16094894442105212,2000,74,Not enough data
+244,Resistance (Ohms) @ 12 KHz,0.16065763675489875,13276,42,Too few unique ages
+245,Platelet count,0.16064258304170975,26426,90,
+246,"Bis(1,3-dichloro-2-propyl) phosphate (ug/L)",0.1604707306949158,6774,78,Not enough data
+247,Resistance (Ohms) @ 220 KHz,0.16006985824279063,13276,42,Too few unique ages
+248,Reactance (Ohms) @ 128 KHz,0.15972280813115936,13276,42,Too few unique ages
+249,Resistance (Ohms) @ 14 KHz,0.15971782841490856,13276,42,Too few unique ages
+250,Resistance (Ohms) @ 10 KHz,0.15957117338439242,13276,42,Too few unique ages
+251,Resistance (Ohms) @ 13 KHz,0.15943243066765111,13276,42,Too few unique ages
+252,Resistance (Ohms) @ 273 KHz,0.15898119904614738,13276,42,Too few unique ages
+253,"Bronchodilator 2nd Test Spirometry, Peak Expiratory Flow Rate (mL/s)",0.15862868138382746,1564,74,Not enough data
+254,Resistance (Ohms) @ 245 KHz,0.15852590381290288,13276,42,Too few unique ages
+255,Resistance (Ohms) @ 304 KHz,0.15807355746014962,13276,42,Too few unique ages
+256,Resistance (Ohms) @ 378 KHz,0.15786132783503437,13276,42,Too few unique ages
+257,Resistance (Ohms) @ 9 KHz,0.15708494652724858,13276,42,Too few unique ages
+258,Resistance (Ohms) @ 339 KHz,0.1563434511283298,13276,42,Too few unique ages
+259,PCB151 Lipid Adj (ng/g),0.15623160453328933,4177,74,Not enough data
+260,Resistance (Ohms) @ 421 KHz,0.15613859401516195,13276,42,Too few unique ages
+261,Resistance (Ohms) @ 8 KHz,0.15587135282451536,13276,42,Too few unique ages
+262,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Volume in the first 0.5 seconds (mL)",0.15522961135425695,1564,74,Not enough data
+263,Reactance (Ohms) @ 115 KHz,0.15517647242241084,13276,42,Too few unique ages
+264,Resistance (Ohms) @ 469 KHz,0.1548457539552186,13276,42,Too few unique ages
+265,Serum creatinine (mg/dL),0.15477660036570617,82774,79,
+266,Resistance (Ohms) @ 7 KHz,0.15461951817729191,13276,42,Too few unique ages
+267,Reactance (Ohms) @ 421 KHz,0.1542861792724336,13276,42,Too few unique ages
+268,2Yr AM(3-11) & fasting (12+) weights,0.1538264422417459,12413,83,
+269,Resistance (Ohms) @ 6 KHz,0.15266701703158225,13276,42,Too few unique ages
+270,Reactance (Ohms) @ 469 KHz,0.1520238537173889,13276,42,Too few unique ages
+271,Resistance (Ohms) @ 500 KHz,0.1518641569505157,13276,42,Too few unique ages
+272,Resistance (Ohms) @ 5 KHz,0.15170683586189737,13276,42,Too few unique ages
+273,Resistance (Ohms) @ 649 KHz,0.15128694130891862,13276,42,Too few unique ages
+274,Resistance (Ohms) @ 582 KHz,0.15100993055454381,13276,42,Too few unique ages
+275,Segmented neutrophils percent (%),0.15087050635585064,91272,90,
+276,"o,p'-DDT Lipid Adj (ng/g)",0.14965951996875215,5894,74,Not enough data
+277,Diastolic: Blood pressure (first reading) mm Hg,0.14963650373364845,91725,86,
+278,Resistance (Ohms) @ 723 KHz,0.14828054064800267,13276,42,Too few unique ages
+279,4(tert-butyl)phenyl)phenyl phosphate (ug/L),0.1482574584734927,2427,78,Not enough data
+280,Serum transferrin receptor (mg/L),0.14807309487110054,21026,74,
+281,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Volume in the first 0.75 seconds (mL)",0.14804732941464904,1564,74,Not enough data
+282,Reactance (Ohms) @ 500 KHz,0.14771881061241654,13276,42,Too few unique ages
+283,Resistance (Ohms) @ 898 KHz,0.14768485773706908,13276,42,Too few unique ages
+284,Reactance (Ohms) @ 100 KHz,0.14699195951968824,13276,42,Too few unique ages
+285,Resistance (Ohms) @ 806 KHz,0.1467481560017314,13276,42,Too few unique ages
+286,Methylmercury (ug/L),0.14544295869860946,25434,80,
+287,Methylmalonic Acid (nmol/L),0.1449923643326545,10324,62,
+288,Resistance (Ohms) @ 1 MHz,0.14473988535917492,13276,42,Too few unique ages
+289,N-Acetyl-S-(2-hydroxy-3-methyl-3-butenyl)-L-cysteine + N-Acetyl-S-(2-hydroxy-2-methyl-3-butenyl)-L-cysteine (ng/mL),0.14450435745641788,3015,78,Not enough data
+290,Resistance (ohms) of extracellular fluid (ECF) from Cole modeling,0.14247706076064237,12971,42,Too few unique ages
+291,"Bronchodilator 2nd Test Spirometry, Forced Expiratory Volume in the first 1.0 second (mL)",0.14229644900443283,1564,74,Not enough data
+292,Reactance (Ohms) @ 93 KHz,0.1410538308207725,13276,42,Too few unique ages
+293,"Total length of 'food fast', hours",0.1402956341934971,82148,90,
+294,"Blood mercury, total (ug/L)",0.1398757811213006,64689,85,
+295,Waist to hip ratio,0.13887371798370518,26263,89,
+296,Reactance (Ohms) @ 582 KHz,0.13886283725743986,13276,42,Too few unique ages
+297,Resistance (ohms) of intracellular fluid (ICF) from Cole modeling,0.13789678669546446,12971,42,Too few unique ages
+298,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin Lipid Adj (pg/g)",0.13636057923477907,4977,74,Not enough data
+299,Diastolic: Blood pressure (second reading) mm Hg,0.13619953628722525,91072,86,
+300,Reactance (Ohms) @ 649 KHz,0.13522306218131552,13276,42,Too few unique ages
+301,Platelet count: SI (1000 cells/uL),0.13272749429704145,109352,90,
+302,"2,3',4,4'-tetrabromodiphenyl lipid adj (ng/g)",0.13235499152191676,1999,74,Not enough data
+303,"2,2',4,4',5-pentabromodiphenyl ether lipid adj (ng/g)",0.1317484840462979,1985,74,Not enough data
+304,PCB128 Lipid Adj (ng/g),0.1313408009449024,6102,74,Not enough data
+305,Reactance (Ohms) @ 83 KHz,0.13112531683237993,13276,42,Too few unique ages
+306,Estradiol (pg/mL),0.13109468016504544,14419,75,
+307,Hemoglobin:  SI (g/L),0.13108582574316419,26435,90,
+308,PCB87 Lipid Adj (ng/g),0.1304009494411541,4190,74,Not enough data
+309,Serum osmolality:  SI (mmol/Kg),0.13029488456585392,78078,79,
+310,PCB149 Lipid Adj (ng/g),0.1299562441175275,4180,74,Not enough data
+311,Serum apolipoprotein B (mg/dL),0.1296782912287877,29942,87,
+312,Serum apolipoprotein B: SI (g/L),0.1296782912287877,29942,87,
+313,Reactance (Ohms) @ 723 KHz,0.12944478024983497,13276,42,Too few unique ages
+314,4-pyridoxic acid (nmol/L),0.12841026838321457,24915,85,
+315,Mirex Lipid Adj (ng/g),0.12686491162844094,6061,74,Not enough data
+316,"2,2',3,4,4',5',6-heptabromodiphenyl ether lipid adj (ng/g)",0.12640956981757445,1993,74,Not enough data
+317,MHNCH (ng/mL),0.1258622475636788,10911,78,
+318,Recovery 1 heart rate (per minute),0.12563004127605693,8711,38,Too few unique ages; Not enough data
+319,PCB110 Lipid Adj (ng/g),0.1247499394851379,4180,74,Not enough data
+320,Helicobacter pylori (ISR),0.12462054805885114,7493,83,Not enough data
+321,Reactance (Ohms) @ 806 KHz,0.124374345927729,13276,42,Too few unique ages
+322,Gamma-hexachlorocyclohexane Lipid Adj (ng/g),0.12381519075168224,6039,74,Not enough data
+323,{Have you/Has SP} ever had open chest or abdominal surgery?,0.12364557214549743,21613,74,
+324,Triceps Skinfold (mm),0.1229837714768196,79204,90,
+325,"FEV1 at 1.0 seconds, largest value (ml)",0.12262304626196674,20910,83,
+326,"2,2',4,4',6-pentabromodiphenyl lipid adj (ng/g)",0.1213836168851915,2040,74,Not enough data
+327,Self reported weight (lbs) (12-16 years),0.1211691195827227,1677,5,Too few unique ages; Not enough data
+328,Reactance (Ohms) @ 75 KHz,0.1206267386745713,13276,42,Too few unique ages
+329,Diastolic: Blood pressure (third reading) mm Hg,0.12057138740319817,90361,86,
+330,Hexachlorobenzene (ng/g),0.12010117844922852,5940,74,Not enough data
+331,PCB66 Lipid Adj (ng/g),0.11975521473312967,6079,74,Not enough data
+332,Diastolic blood pressure average,0.11919574755583351,15052,79,
+333,"2,2',4,4',5,5'-hexabromodiphenyl ether lipid adj (ng/g)",0.11823274120837035,2039,74,Not enough data
+334,"2,2',4,4'-tetrabromodiphenyl ether lipid adj (ng/g)",0.11749289082870806,2016,74,Not enough data
+335,Serum phosphorus: SI (mmol/L),0.11608261823797228,82767,79,
+336,Exam length in seconds,0.11585134410971465,8832,85,Not enough data
+337,Diphenyl phosphate (ug/L),0.11522631482249046,6793,78,Not enough data
+338,Upper Leg Length (cm),0.11495757779816984,99174,89,
+339,"2,2',4,4',5,6'-hexabromodiphenyl ether lipid adj (ng/g)",0.11456218469396884,2014,74,Not enough data
+340,Serum phosphorus (mg/dL),0.11450311117701162,82767,79,
+341,Reactance (Ohms) @ 898 KHz,0.11449895692276224,13276,42,Too few unique ages
+342,Hexachlorobenzene Lipid Adj (ng/g),0.1137379024015579,5940,74,Not enough data
+343,Isopentanaldehyde (ng/mL),0.11257146180169542,1798,69,Not enough data
+344,Diastolic: Average blood pressure (mm Hg),0.11052397676472603,75242,85,
+345,PCB189 (ng/g),0.11041304869491364,4115,74,Not enough data
+346,Reactance (Ohms) @ 67 KHz,0.11032557773807361,13276,42,Too few unique ages
+347,Serum alkaline phosphatase:   SI (U/L),0.1102695335382069,82768,79,
+348,Reactance (Ohms) @ 1 MHz,0.1096714354673336,13276,42,Too few unique ages
+349,"2,3,7,8-Tetrachlorodienzo-p-dioxin Lipid Adj (pg/g)",0.10947897720309263,5002,74,Not enough data
+350,Serum C-peptide (pmol/mL),0.10892975681905726,16025,75,
+351,"2,4,4'-tribromodiphenyl ether (pg/g)",0.10869039305202044,1987,74,Not enough data
+352,Serum hepatitis B surface antibody (anti-HBs),0.10857455431973573,80379,88,
+353,Serum rubella antibody (IU),0.10834216706156818,37342,85,
+354,"Cyclohexane-1,2-dicarboxylic acid-mono(carboxyoctyl) ester phthalate (ng/mL)",0.10821134407628075,5737,78,Not enough data
+355,Comment code for CV fitness exam status,0.1081800082622495,14417,38,Too few unique ages
+356,Recovery 3 diastolic blood pressure (mm Hg),0.1076104802476111,6198,38,Too few unique ages; Not enough data
+357,PCB101 Lipid Adj (ng/g),0.10743878514392546,6133,74,Not enough data
+358,PCB49 Lipid Adj (ng/g),0.10727218433543684,1876,74,Not enough data
+359,"2,4,4'-tribromodiphenyl ether lipid adj (ng/g)",0.10723409286795804,1987,74,Not enough data
+360,Serum cytomegalovirus specific IgG results,0.10675802231695719,37158,90,
+361,Benzaldehyde (ng/mL),0.10655522243317772,1468,69,Not enough data
+362,Serum LDL cholesterol:  SI (mmol/L),0.10543579558451077,39384,88,
+363,N-acetyl-S-(N-methylcarbamoyl)-L-cysteine (ng/mL),0.10535848739374509,11229,83,
+364,"2,2',4,4',6-pentabromodiphenyl ether (pg/g)",0.10473591502037316,2040,74,Not enough data
+365,Cuff size used for blood pressure monitoring,0.10464906489694603,9871,38,Too few unique ages
+366,"Baseline 1st Test Spirometry, Forced Expiratory Flow Rate 25-75%, in mL/s.",0.10293993700288595,20050,74,
+367,PCB66 (ng/g),0.102860458423083,6079,74,Not enough data
+368,alpha-cryptoxanthin (ug/dL),0.10261578401159233,13750,80,
+369,Warm-up diastolic blood pressure (mm Hg),0.10238416903172665,8524,38,Too few unique ages; Not enough data
+370,"Baseline 1st Test Spirometry, Forced Vital Capacity, in mL.",0.10122313487636814,20050,74,
+371,Serum rubella antibody (IgG),0.10088567621843414,26717,85,
+372,3-(Ethylcarbamoyl)benzoic acid (ug/L),0.10064889603532934,2386,78,Not enough data
+373,{Have you/Has SURVEY PARTICIPANT} ever had eye surgery? [Do not include cosmetic surgery on the eyelid or skin around the eye],0.10038921345060603,21718,74,
+374,Lutein (ug/dL),0.10006329448498863,7268,80,Not enough data
+375,Mono-2-ethyl-5-hydroxyhexyl terephthalate (ug/L),0.09992731725439519,5155,78,Not enough data
+376,Red cell distribution width:SI(fraction),0.09960340503959086,26435,90,
+377,Recovery 1 diastolic blood pressure (mm Hg),0.09949301700327517,8688,38,Too few unique ages; Not enough data
+378,Urinary Perfluorodecanoic acid (ng/mL),0.09923644781323493,2737,78,Not enough data
+379,"2,2',4,4'-tetrabromodiphenyl ether (pg/g)",0.09833056902653048,2016,74,Not enough data
+380,Stage 1 diastolic blood pressure (mm Hg),0.09829580643758651,8013,38,Too few unique ages; Not enough data
+381,Serum C-peptide: SI (nmol/L),0.09774185994814122,25322,79,
+382,Heptaldehyde (ng/mL),0.09703828282872051,1527,69,Not enough data
+383,Reactance (Ohms) @ 60 KHz,0.09673573071959085,13276,42,Too few unique ages
+384,"Tungsten, urine (ng/mL)",0.09645907862989056,26621,83,
+385,Platelet distribution width (%),0.0957509643068506,26274,90,
+386,Serum Toxoplasmosis IgG antibodies (IU/ml),0.09511113105808033,30332,85,
+387,Recovery 2 diastolic blood pressure (mm Hg),0.09498688834303604,8914,38,Too few unique ages; Not enough data
+388,Incomplete OGTT Comment Code,0.09487080300108064,14915,69,
+389,"Forced expiratory vol(FEV),.5 sec,max-ml",0.0940549517481235,20654,83,
+390,Thigh skinfold (mm) (2 years and over),0.09397643065592509,23901,89,
+391,Serum Total Iron Binding Capacity (TIBC) (umol/L),0.09317010697032113,54381,90,
+392,cis-Lycopene (ug/dL),0.0928755924379916,7268,80,Not enough data
+393,Serum albumin:  SI (g/L),0.09281703271130515,82779,79,
+394,Serum albumin (g/dL),0.09281703271130515,82779,79,
+395,Serum LDL cholesterol (mg/dL),0.09211741942072305,39293,88,
+396,Serum Total Iron Binding Capacity (TIBC) (ug/dL),0.09165048058010938,54381,90,
+397,"2,2',4,4',5-pentabromodiphenyl ether (pg/g)",0.09145188751861244,1985,74,Not enough data
+398,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 6.0 seconds, in mL.",0.09123088698475612,20050,74,
+399,Serum cis-Beta carotene (ug/dL),0.09096012838385681,28474,83,
+400,total Lycopene (ug/dL),0.09088304466334285,44155,87,
+401,Length of the CV fitness exam (minutes),0.09070917707957749,14417,38,Too few unique ages
+402,"2,2',4,4',5,5'-hexabromodiphenyl ether (pg/g)",0.08823947172442204,2039,74,Not enough data
+403,Blood lead (ug/dL),0.08770733616874493,102620,90,
+404,Gamma Glutamyl Transferase (GGT): SI (IU/L),0.08730115115376946,78569,79,
+405,PCB28 Lipid Adj (ng/g),0.08690574868025314,3715,74,Not enough data
+406,Hip Circumference (cm),0.08666877636142734,6039,69,Not enough data
+407,Malathion dicarboxylic acid (ug/L),0.08640698154989646,7243,75,Not enough data
+408,Hematocrit (%),0.08630700480430475,109362,90,
+409,PCB44 Lipid Adj (ng/g),0.08608939814602656,1890,74,Not enough data
+410,Parathyroid Hormone Elecys method (pg/mL),0.08482019169110966,14690,80,
+411,Examiner ID code,0.08481371319572817,14417,38,Too few unique ages
+412,Reactance (Ohms) @ 54 KHz,0.08448997021767868,13276,42,Too few unique ages
+413,CV fitness exam status,0.0843119801007598,14417,38,Too few unique ages
+414,Maximal Calf Circumference (cm),0.08395106633486615,29895,78,
+415,Butyraldehyde (ng/mL),0.08373706899376265,1740,69,Not enough data
+416,"Total Cotinine, urine (ng/mL)",0.08260762560567103,8228,78,Not enough data
+417,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,0.08251476655852774,15117,80,
+418,Cardiovascular fitness level,0.0822744327130176,8324,38,Too few unique ages; Not enough data
+419,Mono-benzyl phthalate (ng/mL),0.08224110552104602,26740,83,
+420,Ratio of Total to HDL Cholesterol (-),0.08056089084999252,98153,88,
+421,Recovery 3 heart rate (per minute),0.08027460235717354,6211,38,Too few unique ages; Not enough data
+422,Perfluorooctane sulfonic acid (ng/mL),0.0800539594000581,18308,83,
+423,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 3.0 seconds, in mL.",0.07965640172456134,20050,74,
+424,"Baseline 1st Test Spirometry, Peak Expiratory Flow Rate, in mL/s.",0.0796256189416914,20050,74,
+425,Serum total beta carotene (ug/dL),0.07949734008516463,46229,88,
+426,Atrazine mercapturate (ug/L),0.07853451661873712,7438,80,Not enough data
+427,"3,4,4',5-Tetrachlorobiphenyl Lipid Adj (pg/g)",0.0781836183897876,4958,74,Not enough data
+428,Warm-up heart rate (per minute),0.07809013451249558,8558,38,Too few unique ages; Not enough data
+429,Warm-up speed (miles per hour),0.07774828576644666,9786,38,Too few unique ages
+430,Serum trans-lycopene (ug/dL),0.07767802088859332,29340,83,
+431,Assigned exercise protocol,0.0776759056086388,9887,38,Too few unique ages
+432,Reactance (Ohms) @ 50 KHz,0.07708284696314438,13276,42,Too few unique ages
+433,Serum trans-Beta carotene (ug/dL),0.07624571427197735,29469,83,
+434,Warm-up grade (% incline),0.07612627275773642,9786,38,Too few unique ages
+435,Nonanaldehyde (ng/mL),0.07578263695219845,1534,69,Not enough data
+436,"1,2,3,4,6,7,8-Heptachlorodibenzofuran (fg/g)",0.07573872186739661,4786,74,Not enough data
+437,Thyroid stimulating hormone (IU/L),0.07525291780519927,4392,74,Not enough data
+438,PCB151 (ng/g),0.07475816661322643,4177,74,Not enough data
+439,CMV IgG Optical Density,0.07471943339707154,18389,44,Too few unique ages
+440,Hemoglobin (g/dL),0.07433805585996867,109363,90,
+441,Glycideamide (pmol/g Hb),0.0739947716514423,19603,83,
+442,"Total Hydroxycotinine, urine (ng/mL)",0.07330441932733855,8229,78,Not enough data
+443,"Total length of 'food fast', minutes",0.07326820710065174,61081,85,
+444,PCB44 (ng/g),0.07295386226620382,1890,74,Not enough data
+445,2(isopropyl)phenyl)phenyl phosphate (ug/L),0.07292067443412487,2416,78,Not enough data
+446,N-Desmethylacetamiprid (ug/L),0.07280971889070165,2418,78,Not enough data
+447,Stage 2 diastolic blood pressure (mm Hg),0.07245271384994234,7447,38,Too few unique ages; Not enough data
+448,Diastolic: Blood pressure (fourth reading if necessary) mm Hg,0.07226041830813079,8466,79,Not enough data
+449,N-Acetyl-S-(4-hydroxy-2-methyl-2-butenyl)-L-cysteine (ng/mL),0.07220564375593186,3015,78,Not enough data
+450,Recovery 2 heart rate (per minute),0.07190455616247315,8926,38,Too few unique ages; Not enough data
+451,Recovery 3 systolic blood pressure (mm Hg),0.07178352089345119,6198,38,Too few unique ages; Not enough data
+452,PCB28 (ng/g),0.07167545661284891,3715,74,Not enough data
+453,2-Aminothiazole-4-carboxylic acid (ng/mL),0.07146549599615382,11173,83,
+454,"FEV3 at 3.0 seconds, largest value (ml)",0.07131752343690945,20654,83,
+455,Spirometry First Test Comment (Baseline Spirometry),0.07121761422101847,2034,74,Not enough data
+456,"o-Anisidine, urine (pg/mL)",0.07090608705663615,2332,75,Not enough data
+457,Propanaldehyde (ng/mL),0.06994157309705162,1714,69,Not enough data
+458,"o-Toluidine, urine (pg/mL)",0.06955009028578363,2412,75,Not enough data
+459,gamma-tocopherol (ug/dL),0.06950782001313016,35964,83,
+460,Hexanaldehyde (ng/mL),0.06782692290956627,1571,69,Not enough data
+461,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 1.0 second, in mL.",0.06767506390061107,20050,74,
+462,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 0.75 seconds, in mL.",0.0672130028543304,20050,74,
+463,Urinary Perfluoroundecanoic acid (ng/mL),0.06697920725580042,2737,78,Not enough data
+464,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 0.5 seconds, in mL.",0.06651453814089814,20050,74,
+465,PCB49 (ng/g),0.06624734559197198,1876,74,Not enough data
+466,Serum Herpes Simplex Virus Type 1 (I) antibody,0.06604803504334511,46104,79,
+467,"Nickel, Urine (ug/L)",0.06551963422920926,2791,78,Not enough data
+468,Vitamin B6 (nmol/L),0.06539719794466803,32735,85,
+469,Exercise protocol used in stage 1 and stage 2 after adjustment for warm-up heart rate,0.06512675806080526,9887,38,Too few unique ages
+470,Acrylamide (pmoL/g Hb),0.06409229209158052,19719,83,
+471,Stage 1 grade (% incline),0.06390924308987012,9623,38,Too few unique ages
+472,"1-Aminonaphthalene, urine (pg/mL)",0.06384754078587895,2478,75,Not enough data
+473,Blood Nitromethane (pg/mL),0.06356751959881679,8000,69,Not enough data
+474,Selenium (ug/L),0.06328195869931863,48400,90,
+475,Stage 2 grade (% incline),0.06299790869080568,9040,38,Too few unique ages
+476,Serum thyroid stimulating hormone (TSH): SI (mIU/L),0.06297693144947203,28748,79,
+477,Serum thyroid stimulating hormone (TSH) (uIU/mL),0.06297693144947203,28748,79,
+478,Reactance (Ohms) @ 43 KHz,0.06296944311360009,13276,42,Too few unique ages
+479,Mono-2-hydroxy-isobutyl phthalate (ng/mL),0.06219532599682731,8064,78,Not enough data
+480,"4,4'-Diaminodiphenylmethane (ng/mL)",0.06192119705324517,2831,78,Not enough data
+481,Spirometry Second Test Status (Post-Bronchodilator Spirometry),0.06175385281163903,2769,74,Not enough data
+482,"2,3,7,8-Tetrachlorodibenzofuran Lipid Adj (pg/g)",0.061636675952085995,5000,74,Not enough data
+483,"2,6-Dimethylaniline, urine (pg/mL)",0.06132383215255599,2375,75,Not enough data
+484,"2,2',4,4',5,6'-hexabromodiphenyl ether (pg/g)",0.06072361132013793,2014,74,Not enough data
+485,Norharman (pg/mL),0.06066995669228037,2552,75,Not enough data
+486,"Cobalt, urine (ng/mL)",0.0604813313369118,26801,83,
+487,"1,2,3,7,8-Pentachlorodibenzofuran Lipid Adj (pg/g)",0.05947121411494205,5024,74,Not enough data
+488,Serum cotinine (ng/mL),0.05930072080907134,99696,88,
+489,Plasma fibrinogen:  SI (g/L),0.05899214534891917,15097,51,Too few unique ages
+490,Plasma fibrinogen (mg/dL),0.05899214534891917,15097,51,Too few unique ages
+491,Harman (pg/mL),0.058893357782354494,2571,75,Not enough data
+492,Self-reported height (inches),0.058876551542438094,26414,41,Too few unique ages
+493,Red cell distribution width (%),0.05879046678744315,109363,90,
+494,"2,2',3,4,4'-pentabromodiphenyl ether (pg/g)",0.05834139606646482,2000,74,Not enough data
+495,Spirometry Second Test Comment (Post-Bronchodilator Spirometry),0.05765495964908329,582,74,Not enough data
+496,"cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane carboxylic acid (ug/L)",0.05730915718096219,10075,80,
+497,HIV-1 antibody,0.05709579710699775,34,20,Too few unique ages; Not enough data
+498,Retinyl stearate (ug/dL),0.056851568281732656,32582,83,
+499,"1,2,3,4,7,8,9-Heptachlorodibenzofuran (fg/g)",0.05653667618279001,3076,74,Not enough data
+500,Epstein Barr Virus index,0.05635234809833922,8597,14,Too few unique ages; Not enough data
+501,60 sec. pulse (30 sec. pulse * 2),0.05634490223223809,97208,86,
+502,3-fluoranthene (ng/L),0.05513630453906204,2237,80,Not enough data
+503,Serum helicobacter pylori antibody,0.05503856405812524,10171,85,
+504,"Molybdenum, urine (ng/mL)",0.054976714789216174,26592,83,
+505,Estimated maximal oxygen uptake (ml/kg/min).,0.05490376551714937,8324,38,Too few unique ages; Not enough data
+506,Pentachlorophenol (ug/L),0.05468528510528603,2354,80,Not enough data
+507,"Vitamin B12, serum (pg/mL)",0.054501444934771826,54605,90,
+508,Octanaldehyde (ng/mL),0.054428775043050104,1456,69,Not enough data
+509,1-pyrene (ng/L),0.05409942350980135,21177,83,
+510,Bis(2-chloroethyl) phosphate (ug/L),0.05344005598273405,6769,78,Not enough data
+511,RBC folate: SI (nmol/L),0.05330945203750059,102253,90,
+512,Serum alpha carotene (ug/dL),0.053301341404060176,52508,88,
+513,p-Phenylenediamine (ng/mL),0.05320241941348547,2608,78,Not enough data
+514,"Bronchodilator 2nd Test Spirometry, Extrapolated Volume (mL)",0.05305391044823393,1564,74,Not enough data
+515,Position for home examination,0.05304558394853909,484,69,Not enough data
+516,Perfluorohexane sulfonic acid (ng/mL),0.05304259524645394,18812,83,
+517,Sagittal Abdominal Diameter Comment,0.05303950271952995,1415,73,Not enough data
+518,LBXTC2_x,0.0529454334110423,4958,74,Not enough data
+519,Excluded from exam due to taking selected exclusionary medications,0.05283088837492178,2626,38,Too few unique ages; Not enough data
+520,RBC folate (ng/mL),0.05276015076017537,102253,90,
+521,"2,3',4,4'-tetrabromodiphenyl ether (pg/g)",0.05275327926636908,1999,74,Not enough data
+522,Serum combined lutein/zeaxanthin (ug/dL),0.05264436548659224,52728,88,
+523,"2-Aminonaphthalene, urine (pg/mL)",0.05245680502819172,2488,75,Not enough data
+524,"Peak expiratory flow, largest value (ml)",0.052092762654236124,20908,83,
+525,"4-Aminobiphenyl, urine (pg/mL)",0.05209210424710908,2492,75,Not enough data
+526,"NNAL, urine (ng/mL)",0.052049441295698995,30397,75,
+527,DEET (ug/L),0.051938112877958686,15427,80,
+528,Urinary Arsenobetaine (ug/L),0.051716421872168405,21697,83,
+529,PCB87 (ng/g),0.051690698060553264,4190,74,Not enough data
+530,25-hydroxyvitamin D2 (nmol/L),0.05127528548647753,47287,80,
+531,Ethylene Oxide (pmol/g Hb),0.05117149061507975,4860,75,Not enough data
+532,Pentanaldehyde (ng/mL),0.05094008976831521,1768,69,Not enough data
+533,"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (pg/mL)",0.050880743588375466,2569,75,Not enough data
+534,"1,2,3,7,8,9-Hexachlorodibenzofuran Lipid Adj (pg/g)",0.05072811207301442,4962,74,Not enough data
+535,"Antimony, urine (ng/mL)",0.05029050903337995,26611,83,
+536,cis-Lutein/Zeaxanthin (ug/dL),0.0502626142935938,7268,80,Not enough data
+537,PCB52 Lipid Adj (ng/g),0.05000710908334627,5346,74,Not enough data
+538,"Hydroxycotinine, Serum (ng/mL)",0.049895720705382174,22796,78,
+539,Carbofuranphenol (ug/L),0.049821812725937775,7414,80,Not enough data
+540,Phytofluene (ug/dL),0.04931084293124155,7268,80,Not enough data
+541,Urinary nitrate (ng/mL),0.04924384102105228,28933,83,
+542,Reactance (Ohms) @ 39 KHz,0.0492318424472572,13276,42,Too few unique ages
+543,Mono-oxoisononyl phthalate (ng/mL),0.04870502220982276,5155,78,Not enough data
+544,Serum herpes simplex virus type 2 (II) antibody,0.04811410478244871,39092,79,
+545,Blood manganese (ug/L),0.04811187243946535,25635,80,
+546,"FEV6 at 6.0 seconds, largest value (ml)",0.04803948148435744,20654,83,
+547,Stage 1 speed (miles per hour),0.04767219680797219,9623,38,Too few unique ages
+548,Paranitrophenol (ug/L),0.047271969795188884,15206,80,
+549,4-fluoro-3-phenoxybenzoic acid (ug/L),0.047226202647141835,15429,80,
+550,Mean platelet volume:  SI (fL),0.04695673021314695,109362,90,
+551,Phytoene (ug/dL),0.04677949386285307,7268,80,Not enough data
+552,# of dropped beats in 30 seconds,0.046483734591276415,223,38,Too few unique ages; Not enough data
+553,Crotonaldehyde (ng/mL),0.04576425199524237,1733,69,Not enough data
+554,25-hydroxyvitamin D3 (nmol/L),0.04553233131199752,47287,80,
+555,Stage 2 speed (miles per hour),0.04541941573695052,9040,38,Too few unique ages
+556,Branch perfluorooctanoic acid isomers (ng/mL),0.04479330302383211,6401,78,Not enough data
+557,"2-Amino-9H-pyrido[2,3-b]indole (pg/mL)",0.044554577760864245,2568,75,Not enough data
+558,Serum beta cryptoxanthin (ug/dL),0.04398109532027361,52621,88,
+559,N-Acetyl-S-(1-cyano-2-hydroxyethyl)-L-cysteine (CYHA) (ng/mL),0.04388405690738928,3015,78,Not enough data
+560,2-isopropoxyphenol (ug/L),0.04372049389180044,7298,80,Not enough data
+561,DEET acid (ug/L),0.043572251838860265,13351,78,
+562,Recovery 2 systolic blood pressure (mm Hg),0.04275836489118634,8914,38,Too few unique ages; Not enough data
+563,Perfluorooctanoic acid (ng/mL),0.04263736483157321,18308,83,
+564,Cytomegalovirus IgG Avidity,0.042580695975999894,8014,49,Too few unique ages; Not enough data
+565,Ratio of LDL to HDL Cholesterol (-),0.0425618606381174,39293,88,
+566,"Thallium, urine (ng/mL)",0.04241008073590424,26712,83,
+567,Urinary Benzophenone-3 (ng/mL),0.04233386727085031,18244,83,
+568,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran (fg/g)",0.04233317145313109,4935,74,Not enough data
+569,Mono-isobutyl phthalate (ng/mL),0.04179683130152967,24199,83,
+570,Alachlor mercapturate (ug/L),0.04162167288669627,1942,54,Too few unique ages; Not enough data
+571,Excluded from exam due to selected physical functioning limitations,0.0414680736085381,2626,38,Too few unique ages; Not enough data
+572,PCB101 (ng/g),0.041361795165844484,6133,74,Not enough data
+573,Mono-3-hydroxy-n-butyl phthalate (ng/mL),0.04125402162691305,8064,78,Not enough data
+574,Segmented neutrophils number (1000 cell/uL),0.041188482294627904,82745,85,
+575,"2,3,4,6,7,8-Hexchlorodibenzofuran (fg/g)",0.04115635269787854,4980,74,Not enough data
+576,"trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (ug/L)",0.041096259524736056,15229,80,
+577,Serum transferrin saturation (%),0.040970402346819035,54344,90,
+578,Urinary Perfluoroheptanoic acid (ng/mL),0.04096414147199867,2737,78,Not enough data
+579,Reactance (Ohms) @ 35 KHz,0.0408838033102632,13276,42,Too few unique ages
+580,PCB52 (ng/g),0.04085568347514712,5346,74,Not enough data
+581,Serum uric acid:  SI (umol/L),0.04073087992023183,82763,79,
+582,"Mercury, Inorganic (ug/L)",0.040574086304409396,63983,85,
+583,Serum uric acid (mg/dL),0.04036315253022593,82763,79,
+584,"2,2',3,4,4',5',6-heptabromodiphenyl ether (pg/g)",0.04010584548032892,1993,74,Not enough data
+585,Reactance (Ohms) @ 5 KHz,0.039877669887804834,13276,42,Too few unique ages
+586,Granulocyte number (Coulter),0.03947260482449233,26032,90,
+587,5-Hydroxy-Imidacloprid (ug/L),0.03934462081836454,2312,78,Not enough data
+588,"3,5,6-trichloropyridinol (ug/L)",0.039340944341281436,12979,80,
+589,"2,3,4,6,7,8-Hexchlorodibenzofuran Lipid Adj (pg/g)",0.039327040411194836,4980,74,Not enough data
+590,"2,4,5-Trichlorophenoxyacetic acid (ug/L)",0.03904400855720691,12612,80,
+591,"1,2,3,4,6,7,8-Heptachlorodibenzofuran (hpcdf) Lipid Adj (pg/g)",0.03889294502208451,4786,74,Not enough data
+592,Excluded from exam due to other specific reasons,0.03844653879317339,2626,38,Too few unique ages; Not enough data
+593,Reactance (Ohms) @ 6 KHz,0.038332716161349145,13276,42,Too few unique ages
+594,Reactance (Ohms) @ 7 KHz,0.038113938617633125,13276,42,Too few unique ages
+595,Perfluorononanoic acid (ng/mL),0.03772062810739629,18812,83,
+596,PCB149 (ng/g),0.03738336031263412,4180,74,Not enough data
+597,Bis(1-chloro-2-propyl) phosphate (ug/L),0.0373332947995364,6784,78,Not enough data
+598,Cobalt (ug/L),0.03727103683865007,6974,41,Too few unique ages; Not enough data
+599,"2,4-Diaminotoluene (ng/mL)",0.03683529807601538,2595,78,Not enough data
+600,"FVC, largest value (ml)",0.0365575907304897,20910,83,
+601,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran Lipid Adj (pg/g)",0.03633455380192907,4935,74,Not enough data
+602,Oxypyrimidine (ug/L),0.03627884971568773,15290,80,
+603,Retinyl palmitate (ug/dL),0.0361953210851097,34443,83,
+604,Serum apolipoprotein AI: SI (g/L),0.03603982364526381,11482,87,
+605,Serum apolipoprotein AI (mg/dL),0.03603982364526381,11482,87,
+606,N-acetyl-S-(2-Hydroxyethyl)-L-cysteine (ng/mL),0.036008510846728736,11236,83,
+607,Knee height (cm) (60 years and over),0.03593385543718808,4942,31,Too few unique ages; Not enough data
+608,PCB110 (ng/g),0.0358265511280893,4180,74,Not enough data
+609,Serum bicarbonate:  SI (mmol/L),0.03534398014476159,82685,79,
+610,Serum antimicrosomal antibody (U/mL),0.03477637842614778,18148,79,
+611,Potassium (mmol/L),0.034733143548610235,82765,79,
+612,Zeaxanthin (ug/dL),0.03462846260777397,7268,80,Not enough data
+613,BIA Status,0.03439117807723868,16589,42,Too few unique ages
+614,Perfluoroundecanoic acid (ng/mL),0.03433698267965157,18812,83,
+615,Mono-(3-carboxypropyl) phthalate (ng/mL),0.034312451955991086,24199,83,
+616,Reactance (Ohms) @ 8 KHz,0.03421781892474651,13276,42,Too few unique ages
+617,Epstein Barr Virus result,0.034198303017410114,8600,14,Too few unique ages; Not enough data
+618,3-fluorene (ng/L),0.034132388457491336,21141,83,
+619,1-naphthol (ng/L),0.03413205133593378,21029,83,
+620,Perfluorodecanoic acid (ng/mL),0.03380252093843106,18812,83,
+621,Dibutyl phosphate (ug/L),0.03378672013672235,6775,78,Not enough data
+622,Mono-(2-ethyl-5-oxohexyl) phthalate (ng/mL),0.033707607953648244,24199,83,
+623,Mono-(2-ethylhexyl) phthalate (ng/mL),0.03325437692012678,26740,83,
+624,Reactance (Ohms) @ 31 KHz,0.03320069792967828,13276,42,Too few unique ages
+625,4-phenanthrene (ng/L),0.03301988576544024,7061,80,Not enough data
+626,Di-p-cresyl phosphate (ug/L),0.03287278605978006,2316,75,Not enough data
+627,"2,3,7,8-Tetrachlorodibenzofuran (fg/g)",0.03259744976990386,5000,74,Not enough data
+628,Mono-n-butyl phthalate (ng/mL),0.032538264414757045,26740,83,
+629,Total Calcium (mg/dL),0.03245042311429547,82729,79,
+630,Equol (ng/mL),0.03240872750141077,15309,80,
+631,Recovery 1 systolic blood pressure (mm Hg),0.03235860088003939,8688,38,Too few unique ages; Not enough data
+632,Physical activity readiness (PAR) code,0.03226412649454913,9888,38,Too few unique ages
+633,Pulse regular or irregular?,0.03209028962638549,89022,85,
+634,"Serum Iron, Frozen: SI (umol/L)",0.03142391963330782,55144,90,
+635,"1,2,3,4,7,8,9-Heptachlorodibenzofuran Lipid Adj (pg/g)",0.03135252727875759,3076,74,Not enough data
+636,Urinary Triclocarban (ng/mL),0.03115152884596173,5337,78,Not enough data
+637,OGTT Subsample 2 Year MEC Weight,0.03069506664688726,17102,74,
+638,Estimated percent body fat,0.0306769826525638,12746,42,Too few unique ages
+639,N-acetyl-S-(2-Carboxyethyl)-L-cysteine (ng/mL),0.030536818093882978,11259,83,
+640,Mono(carboxynonyl) phthalate (ng/mL),0.03036839119140755,18812,83,
+641,Serum total protein (g/dL),0.030130664086148395,82707,79,
+642,"1,2,3,7,8-Pentachlorodibenzofuran (fg/g)",0.030071853245157043,5024,74,Not enough data
+643,Urinary thiocyanate (ng/mL),0.029996335741313995,28921,83,
+644,Serum total protein:  SI (g/L),0.02984861605176059,82715,79,
+645,Reactance (Ohms) @ 9 KHz,0.029777162803820034,13276,42,Too few unique ages
+646,2 & 3-Hydroxyphenanthrene (ng/L),0.029742806159636204,5685,78,Not enough data
+647,Serum hepatitis B core antibody,0.029446348456223626,95049,85,
+648,"Barium, urine (ng/mL)",0.029344521968167614,26516,83,
+649,Serum chloride (mmol/L),0.02906671436629127,82767,79,
+650,"Baseline 1st Test Spirometry, Number of Acceptable Curves Performed (ATS Criteria)",0.028833818870113936,41299,85,
+651,Sodium (mmol/L),0.028794763789776523,82774,79,
+652,Mono-2-ethyl-5-carboxypentyl phthalate (ng/mL),0.028767016151443947,21417,83,
+653,Diethyl dithiophosphate (ug/L),0.028753880630861817,20705,83,
+654,"Strontium, urine (ug/L)",0.028692546773686156,8228,78,Not enough data
+655,Serum Copper (ug/dL),0.027932559617099395,7285,75,Not enough data
+656,Mono(carboxyoctyl) phthalate (ng/mL),0.027923182757322862,18812,83,
+657,N-acetyl-S-(2-cyanoethyl)-L-cysteine (ng/mL),0.02770329149215034,11226,83,
+658,N-acetyl-s-(3-hydroxypropyl-1-methyl)-L-cysteine (ng/mL),0.027677836095590935,11243,83,
+659,N-Nitrosomorpholine (NMOR) (ng/L),0.027534518826955345,2384,75,Not enough data
+660,Red blood cell count,0.027356484087744604,26434,90,
+661,Mono-(2-ethyl-5-hydroxyhexyl) phthalate (ng/mL),0.027354788035215516,24199,83,
+662,Reactance (Ohms) @ 10 KHz,0.02722227114380349,13276,42,Too few unique ages
+663,"cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (ug/L)",0.027209916497149877,4999,80,Not enough data
+664,"2,2',4-tribromodiphenyl ether (pg/g)",0.02717833577893425,1992,74,Not enough data
+665,"1,2,3,7,8,9-Hexachlorodibenzofuran (fg/g)",0.02709286886760598,4962,74,Not enough data
+666,"2-Amino-3-methyl-9H-pyrido[2,3-b]indole (pg/mL)",0.02697068792884738,2569,75,Not enough data
+667,Vitamin C (mg/dL),0.026939166521183333,42067,85,
+668,Creatine Phosphokinase (IU/L),0.02688924889839006,24657,69,
+669,Time delay (ns) from Cole modeling,0.026807884491554246,12971,42,Too few unique ages
+670,Serum normalized calcium:  SI (mmol/L),0.02679501637454329,16866,79,
+671,Sum of metabolites of DEHP,0.026654835571450874,21417,83,
+672,"2,4-D (ug/L)",0.026635554174378795,17738,80,
+673,Best test FEV1/FVC ratio below Lower Limit of Normal and/or less than 70%,0.026549464656701383,20312,74,
+674,Reactance (Ohms) @ 28 KHz,0.026374141015486408,13276,42,Too few unique ages
+675,"Thyroxine, free (pmol/L)",0.02634421383261565,10600,69,
+676,Time from fast glucose & challenge (min),0.026191791411927734,11766,69,
+677,"Lead, urine (ng/mL)",0.026166721860470976,26398,83,
+678,Red blood cell count: SI (million cells/uL),0.02616548691337095,109362,90,
+679,Daidzein (ng/mL),0.0261365152099301,15685,80,
+680,Mono-n-methyl phthalate (ng/mL),0.02583705667139835,15777,80,
+681,Weight Comment,0.025772552610665467,3725,85,Not enough data
+682,Reactance (Ohms) @ 11 KHz,0.025649348947641037,13276,42,Too few unique ages
+683,N-Nitrosopiperidine (NPIP) (ng/L),0.025608319523904965,2529,75,Not enough data
+684,3-phenanthrene (ng/L),0.025363434169854426,15453,80,
+685,Serum latex antibody (IU/mL),0.02532126307455551,5524,44,Too few unique ages; Not enough data
+686,Urinary Bisphenol A (ng/mL),0.025037601608120963,18244,83,
+687,Reactance (Ohms) @ 12 KHz,0.02472577923411412,13276,42,Too few unique ages
+688,"o,p'-DDT (ng/g)",0.02462132719337584,5894,74,Not enough data
+689,Ethylenethio urea (ug/L),0.024537027745096363,7325,80,Not enough data
+690,"Tin, urine (ug/L)",0.02434607983935011,11036,78,
+691,Stage 2 systolic blood pressure (mm Hg),0.024325578173801654,7447,38,Too few unique ages; Not enough data
+692,Aldrin (ng/g),0.024282446874692165,4221,74,Not enough data
+693,Quality of fit to Cole model,0.024202267295917568,16589,42,Too few unique ages
+694,Dimethyl dithiophosphate (ug/L),0.024171227165042275,20864,83,
+695,Propyl paraben (ng/mL),0.023651040267187673,15727,83,
+696,Gamma-hexachlorocyclohexane (ng/g),0.02361142138492056,6039,74,Not enough data
+697,"Mercury, urine (ug/L)",0.023528137901516644,25388,83,
+698,Formaldehyde (nmol/g Hb),0.023324915488051157,4521,75,Not enough data
+699,Serum anti-thyroglobulin antibody (U/mL),0.02325717067452704,28682,79,
+700,Recumbent Length Comment,0.02317645843920202,323,3,Too few unique ages; Not enough data
+701,Endrin (ng/g),0.023175943570464708,4012,74,Not enough data
+702,Time from fasting glucose & OGTT (min),0.023104836958531494,11549,69,
+703,2-(diethylamino)-6-methylpyrimidin-4-ol/one (ug/L),0.023052511480396443,2981,80,Not enough data
+704,Imidacloprid (ug/L),0.022978839341711743,2405,78,Not enough data
+705,N-Acetyl-S-(4-hydroxy-2-butenyl)-L-Cysteine (ng/mL),0.022961649034544007,11170,83,
+706,Diethylthiophosphate (ug/L),0.02264854710008679,20820,83,
+707,Reactance (Ohms) @ 13 KHz,0.022588805096658393,13276,42,Too few unique ages
+708,Mesh vest used,0.02244255073654966,4890,38,Too few unique ages; Not enough data
+709,{Is SP/Are you} now taking insulin,0.022405466160478338,27722,90,
+710,Clothianidin (ug/L),0.022308309531766324,2423,78,Not enough data
+711,o-Desmethylangolensin (O-DMA) (ng/mL),0.021984016513679316,15390,80,
+712,Serum hepatitis A antibody (Anti-HAV),0.021723201971459938,100377,89,
+713,Mononuclear number (Coulter),0.021681875849580257,26031,90,
+714,Urinary total Arsenic (ug/L),0.0213897428082509,18825,83,
+715,Reactance (Ohms) @ 25 KHz,0.021162490459877392,13276,42,Too few unique ages
+716,Vitamin D (nmol/L),0.02096510958916109,90568,90,
+717,PCB128 (ng/g),0.020890443515273693,6102,74,Not enough data
+718,o-Tolualdehyde (ng/mL),0.020888053785257266,1561,69,Not enough data
+719,Spirometry First Test Status (Baseline Spirometry),0.02085593876613112,23433,74,
+720,"N'-Nitrosanatabine, urine (ng/mL)",0.020854416313695112,7912,75,Not enough data
+721,Warm-up systolic blood pressure (mm Hg),0.02084877488177661,8524,38,Too few unique ages; Not enough data
+722,2-thioxothiazolidine-4-carboxylic acid (ng/mL),0.020809103931260897,8275,80,Not enough data
+723,Toxoplasmosis IgM antibodies,0.020748416420751092,12399,75,
+724,N-acetyl-S-(2-carbamoylethyl)-L-cysteine (ng/mL),0.02060458325656689,11161,83,
+725,2-(N-ethyl-PFOSA) acetate (ng/mL),0.020350651303386758,12432,83,
+726,Serum lactate dehydrogenase: SI (U/L),0.020331531321303165,82530,79,
+727,Macrocytosis (large cell prevalence),0.02029511502443404,8524,90,Not enough data
+728,CMV IgM Optical Density,0.020217698733877354,6074,38,Too few unique ages; Not enough data
+729,Reactance (Ohms) @ 14 KHz,0.019994103705992528,13276,42,Too few unique ages
+730,Reactance (Ohms) @ 23 KHz,0.01998346317844446,13276,42,Too few unique ages
+731,Excluded from exam due to selected asthma symptoms,0.019777571485223522,2626,38,Too few unique ages; Not enough data
+732,"N'-Nitrosoanabasine (NAB), urine (ng/mL)",0.019713118137880237,7923,75,Not enough data
+733,Serum Zinc (ug/dL),0.019654483942840195,7284,75,Not enough data
+734,3-methylhippuric acid & 4-methylhippuric acid (ng/mL),0.019521167465891054,11277,83,
+735,Genistein (ng/mL),0.019464713705324654,15689,80,
+736,Diethylphosphate (ug/L),0.01932325337188978,20890,83,
+737,Bands (percent of 100 cells),0.01919363339938085,8524,90,Not enough data
+738,Chromium (ug/L),0.019135080002026128,6960,41,Too few unique ages; Not enough data
+739,2-fluorene (ng/L),0.019059575158303477,21205,83,
+740,2-Methylhippuric acid (ng/mL),0.018741630031180456,11020,83,
+741,Reactance (Ohms) @ 15 KHz,0.018688220131548694,13276,42,Too few unique ages
+742,Stage 1 systolic blood pressure (mm Hg),0.018608230027080785,8013,38,Too few unique ages; Not enough data
+743,Phenylglyoxylic acid (ng/mL),0.01857127087638899,11223,83,
+744,Dimethyl phosphate (ug/L),0.01847663060871818,20888,83,
+745,BIA resistance (ohms)(12 years and over),0.01846180075236037,17830,79,
+746,Dimethyl thiophosphate (ug/L),0.018429685238235294,20914,83,
+747,"2,3,4,5-tetrabromobenzoic acid (ug/L)",0.018334271915658396,6799,78,Not enough data
+748,Serum HDL cholesterol:  SI (mmol/L),0.018142242091662708,98172,88,
+749,N-acetyl-S-(3-Hydroxypropyl)-L-cysteine (ng/mL),0.017993838906207427,11062,83,
+750,N-Acetyl-S-(phenyl)-L-cysteine (ng/mL),0.01779767115092934,11211,83,
+751,"2,4,5-trichlorophenol (ug/L)",0.01777241409148711,10426,80,
+752,9-fluorene (ng/L),0.017772123775521176,12772,80,
+753,Reactance (Ohms) @ 16 KHz,0.017615970400622794,13276,42,Too few unique ages
+754,Serum HDL cholesterol (mg/dL),0.017501749922017584,98163,88,
+755,Reason for Priority 2 Stop: Participant reports a rating of perceived exertion more than 17,0.017470495105607053,1299,38,Too few unique ages; Not enough data
+756,"Blood 1,4-Dichlorobenzene (ng/mL)",0.01713560073439313,22899,74,
+757,Urinary Triclosan (ng/mL),0.017129360833985863,18244,83,
+758,Enterolactone (ng/mL),0.017042994649737242,15680,80,
+759,2-(N-methyl-PFOSA) acetate (ng/mL),0.01694856626006569,18522,83,
+760,Room temperature (Degrees Fahrenheit),0.016937312315557285,9869,38,Too few unique ages
+761,Reactance (Ohms) @ 18 KHz,0.01674166684988987,13276,42,Too few unique ages
+762,2-phenanthrene (ng/L),0.016725498301648156,15469,80,
+763,"Blood 1,1,1-Trichloroethane (ng/mL)",0.01672015292390172,22414,74,
+764,epi-25-hydroxyvitamin D3 (nmol/L),0.016684585274722497,46856,80,
+765,"Uranium, urine (ng/mL)",0.016662775470413727,21527,83,
+766,Mandelic acid (ng/mL),0.016630606431147,11184,83,
+767,Serum total folate: SI (nmol/L),0.01660946972418631,101539,90,
+768,Urinary Bisphenol F (ug/L),0.01660653680509805,5333,78,Not enough data
+769,Time from glucose challenge & OGTT (min),0.01657502187243054,11549,69,
+770,Ethyl paraben (ng/mL),0.016537453761179877,15727,83,
+771,Urinary Bisphenol S (ug/L),0.01636367820687945,5333,78,Not enough data
+772,Urinary creatinine (mg/dL),0.01634796928421889,101699,88,
+773,Serum total folate (ng/mL),0.01629769336154374,101539,90,
+774,"Perchlorate, urine (ng/mL)",0.01622221834932125,31455,83,
+775,Serum lipoprotein(a) (mg/dL),0.01617561849527882,12046,87,
+776,Serum lipoprotein(a):  SI (g/L),0.01617561849527882,12046,87,
+777,N-Acetyl-S-(benzyl)-L-cysteine (ng/mL),0.016011302191151544,11271,83,
+778,Reactance (Ohms) @ 20 KHz,0.0160047041248923,13276,42,Too few unique ages
+779,Amount of time spent in Stage 2 (minutes),0.01591025775979049,9023,38,Too few unique ages
+780,"N'-Nitrosonornicotine, urine (ng/mL)",0.015629795102431343,7910,75,Not enough data
+781,Perfluoroheptanoic acid (ng/mL),0.015520896960681818,14890,83,
+782,Methyl paraben (ng/mL),0.015498647653299558,15727,83,
+783,"Manganese, urine (ug/L)",0.015470334703980404,11037,78,
+784,Acephate (ug/L),0.01545457299589248,7542,80,Not enough data
+785,"Iodine, urine (ng/mL)",0.015411234721399936,51536,88,
+786,Amount of time spent in Stage 1 (minutes),0.015373491188460542,9620,38,Too few unique ages
+787,Blood Toluene (ng/mL),0.015298463228066272,16741,74,
+788,O-Phenylphenol (ug/L),0.015286330448444518,10426,80,
+789,Enterodiol (ng/mL),0.015205276748997187,15659,80,
+790,"Blood 1,2-Dichloropropane (ng/mL)",0.015179191748860954,13319,74,
+791,"Serum iron, refrigerated: SI (umol/L)",0.01515751814558719,78040,79,
+792,Mono-isononyl phthalate (ng/mL),0.015074803038726547,26740,83,
+793,Urinary Arsenous acid (ug/L),0.015018520864423346,21698,83,
+794,Alanine aminotransferase ALT: SI (U/L),0.014768079425391822,82668,79,
+795,Urinary Dimethylarsonic acid (ug/L),0.01467359050058914,21698,83,
+796,2-naphthol (ng/L),0.014555660249663704,21166,83,
+797,Glucose challenge Administer Time in minutes,0.014310576008516263,11766,69,
+798,Reason for Priority 2 Stop: Heart rate exceeds predetermined limit during first 2 minutes of stage 2,0.01427871783861867,1299,38,Too few unique ages; Not enough data
+799,"Cesium, urine (ng/mL)",0.01425025792599055,26799,83,
+800,"N-acetyl-S-(3,4-dihydroxybutyl)-L-cysteine (ng/mL)",0.014133311831963091,10965,83,
+801,3-phenoxybenzoic acid (ug/L),0.01404020021302177,15266,80,
+802,N-acetyl-S-(2-hydroxy-3-butenyl)-L-cysteine (ng/mL),0.013911556672830172,11277,83,
+803,N-Acetyl-S-(n-propyl)-L-cysteine (ng/mL),0.013911196152720406,11148,83,
+804,Stage 2 rating of perceived exertion (RPE),0.013901286023769499,8423,38,Too few unique ages; Not enough data
+805,"Blood 1,2-Dichlorobenzene (ng/mL)",0.013893138019697937,21977,74,
+806,Ethylmercury (ug/L),0.013850774846815739,25432,80,
+807,"Serum iron, frozen (ug/dL)",0.013832989690108377,55144,90,
+808,N-acetyl-S-(2-hydroxypropyl)-L-cysteine (ng/mL),0.013826863055787397,11246,83,
+809,Urinary albumin: SI (mg/L),0.013810489300188244,79438,83,
+810,Was the eye surgery in the last three months?,0.013779992213497017,1843,74,Not enough data
+811,N-acetyl-S-(phenyl-2-hydroxyethyl)-L-cysteine (ng/mL),0.01369329324877433,11151,83,
+812,Butyl paraben (ng/mL),0.01359672985345084,15727,83,
+813,d-Tocopherol (ug/dL),0.013539292200440034,7268,80,Not enough data
+814,Body Measures Component status Code,0.013532596798795038,73670,85,
+815,Desethyl hydroxy DEET (ug/L),0.013515888724366043,10376,75,
+816,"Blood 1,3-Dichlorobenzene (ng/mL)",0.013395214766949937,22085,74,
+817,Serum thyroxine (T4): SI (nmol/L),0.013394957665618268,22191,79,
+818,Mononuclear percent (Coulter),0.013323719038975446,26031,90,
+819,Value of the exponent alpha from Cole modeling,0.01312949244292494,12971,42,Too few unique ages
+820,Methamidophos (ug/L),0.013094251984244965,7543,80,Not enough data
+821,N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine (ng/mL),0.01299177670373286,11286,83,
+822,"Baseline 1st Test Spirometry, Extrapolated Volume, in mL.",0.012986859052019128,20047,74,
+823,"Serum iron, refrigerated (ug/dL)",0.012936482311276087,78040,79,
+824,Urinary albumin (ug/mL),0.012876065875530807,101701,88,
+825,"2,5-dichlorophenol (ug/L)",0.012709946298396169,18252,83,
+826,Stage 1 rating of perceived exertion (RPE),0.012580427044464604,9194,38,Too few unique ages
+827,Blood m-/p-Xylene (ng/mL),0.012542764288238306,23392,74,
+828,"2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole (pg/mL)",0.01233883773389377,2572,75,Not enough data
+829,Blood Nitrobenzene (ng/mL),0.01221649736627961,21947,74,
+830,Eosinophils percent (%),0.012192029612062338,91272,90,
+831,"Bronchodilator 2nd Test Spirometry, Forced Vital Capacity Quality Attribute.",0.012151710420920003,1564,74,Not enough data
+832,Blood Bromoform (pg/mL),0.011973095256419652,23434,74,
+833,"2-amino-3-methyl-3H-imidazo[4,5-f] quinolone (pg/mL)",0.011968926378105649,2572,75,Not enough data
+834,Reason for Priority 2 Stop: Participant requests to stop test or reports severe fatigue,0.011728217945020436,1299,38,Too few unique ages; Not enough data
+835,"2,6-Diaminotoluene (ng/mL)",0.011682704449338388,2430,78,Not enough data
+836,Blood MTBE (pg/mL),0.011497929632545922,22730,74,
+837,Sum of arsenic metabolites (ug/L),0.011481658366259917,21698,83,
+838,Serum insulin (uU/mL),0.011425889452929439,46497,79,
+839,Serum insulin: SI (pmol/L),0.011373377784849925,46497,79,
+840,Urinary Arsenocholine (ug/L),0.011337250989126413,21698,83,
+841,Blood Bromodichloromethane (pg/mL),0.011133295995976455,23658,74,
+842,{Do you/Does SP} currently have a breathing problem that requires {you/him/her} to use supplemental oxygen during the day? [This is air stored in a tank that you use to help you breathe. Do not include night treatments for sleep apnea.],0.011103698977107501,22232,74,
+843,Mono-ethyl phthalate (ng/mL),0.011046417186889257,26735,83,
+844,"2,4-dichlorophenol (ug/L)",0.010948251735760417,18252,83,
+845,Blood Tetrachloroethene (ng/mL),0.010804496860451707,22977,74,
+846,Erythrocyte Protoporphyrin: SI (umol/L RBC),0.01077186018574161,49179,90,
+847,Triceps Skinfold Comment,0.010705936416678274,4434,85,Not enough data
+848,"Platinum, urine (ng/mL)",0.010683268122398393,15763,80,
+849,Blood Pressure Comment,0.010574704698989024,21754,85,
+850,Hypochromia (stain intensity of cell),0.010559468052065868,8524,90,Not enough data
+851,Blood Styrene (ng/mL),0.01047842475187688,9326,74,
+852,Blood Dibromochloromethane (pg/mL),0.010475002574540815,23533,74,
+853,BMI Category - Children/Youth,0.010440031437472963,10218,18,Too few unique ages
+854,Urinary Monomethylarsonic acid (ug/L),0.010403871398448339,21697,83,
+855,Polychromatophilia(bluish color of cell),0.010276730938914125,8524,90,Not enough data
+856,Amount of time spent in warm-up (minutes),0.010164656401972283,9783,38,Too few unique ages
+857,Serum globulin:  SI (g/L),0.010152535169224985,78024,79,
+858,Serum globulin (g/dL),0.010152535169224985,78024,79,
+859,Blood Methyl Isobutyl Ketone (ng/mL),0.010105807280647361,2862,69,Not enough data
+860,Blood o-Xylene (ng/mL),0.010071428898905554,23440,74,
+861,Eosinophils number (1000 cells/uL),0.010050327258370184,82745,85,
+862,Basophils percent (%),0.009948991429364895,91272,90,
+863,"Blood 2,5-Dimethylfuran (ng/mL)",0.009896156707108084,22414,74,
+864,"Serum Thyroxine, total (T4) (ug/dL)",0.009768565785832295,32745,79,
+865,White blood cell count: SI (1000 cells/uL),0.009718902239956861,109361,90,
+866,Propylenethio urea (ug/L),0.009695800389181164,7657,80,Not enough data
+867,Erythrocyte Protoporphyrin (ug/dL RBC),0.009397251074394153,49179,90,
+868,Spirometer internal temperature (Celsius),0.00933115896410952,20891,83,
+869,"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole (pg/mL)",0.0093064913431542,2569,75,Not enough data
+870,Blood Benzene (ng/mL),0.00929257442333542,23137,74,
+871,Mono-cyclohexyl phthalate (ng/mL),0.009163003775708445,15829,80,
+872,Mean cell hemoglobin concentration: SI (g/L),0.009140521732446616,26433,90,
+873,"N-acetyl-S-(2,2-Dichlorovinyl)-L-cysteine (ng/mL)",0.009106432519713326,11017,83,
+874,"Baseline 1st Test Spirometry, Effort Quality Attribute",0.008863464426260736,20265,74,
+875,"2,4,6-trichlorophenol (ug/L)",0.008821663915561051,10426,80,
+876,"Bronchodilator 2nd Test Spirometry, Number of Acceptable Curves Performed (ATS Criteria)",0.008794826681858159,3784,85,Not enough data
+877,1-phenanthrene (ng/L),0.008774562071761416,21220,83,
+878,Blood Benzonitrile (ng/mL),0.008642753922997404,5894,69,Not enough data
+879,Blood Cyclohexane (ng/mL),0.008554103047128114,8807,69,Not enough data
+880,Microcytosis (small cell prevalence),0.008435507360099903,8524,90,Not enough data
+881,Blood Methylcyclopentane (ng/mL),0.008403688139970944,8838,69,Not enough data
+882,Blood Chloroform (pg/mL),0.008341746909536152,22927,74,
+883,Patient Pregnant--cannot obtain BIA,0.008322583406132011,1430,78,Not enough data
+884,Blood Heptane (ng/mL),0.008300571239886811,8936,69,Not enough data
+885,Urinary Perfluorohexanoic acid (ng/mL),0.00828147818943914,2328,75,Not enough data
+886,Blood Isobutyronitrile (ng/mL),0.008012118679316393,5843,69,Not enough data
+887,Blood Octane (ng/mL),0.00789569797604972,8988,69,Not enough data
+888,Blood Methylene Chloride (ng/mL),0.007872783284072038,21058,74,
+889,Mono-n-octyl phthalate (ng/mL),0.007837399041475956,15829,80,
+890,"Blood 1,2-Dichloroethane (ng/mL)",0.007683928340642687,22440,74,
+891,"1-Methyl-3-amino-5H-pyrido[4,3-b]indole (pg/mL)",0.007359922166809918,2571,75,Not enough data
+892,Warm-up rating of perceived exertion (RPE),0.007305597592639601,9629,38,Too few unique ages
+893,Patient had pacemaker--cannot obtain BIA,0.00727622970331232,1428,78,Not enough data
+894,Mean cell hemoglobin concentration (g/dL),0.007260933966750982,109389,90,
+895,Urinary Perfluorobutanoic acid (ng/mL),0.0070046075941476715,2328,75,Not enough data
+896,Urinary Perfluorobutane sulfonic acid (ng/mL),0.006927127371513686,2737,78,Not enough data
+897,Dimethoate (ug/L),0.006915879306170991,7656,80,Not enough data
+898,Serum total bilirubin:  SI (umol/L),0.006902977465699567,82745,79,
+899,Decanaldehyde (ng/mL),0.0068500854805653155,1411,69,Not enough data
+900,Blood Ethylbenzene (ng/mL),0.006807011914535255,23177,74,
+901,Blood Trichloroethene (ng/mL),0.006589392020243889,23677,74,
+902,Blood Hexane (ng/mL),0.006510991634073426,14369,69,
+903,Urinary Arsenic acid (ug/L),0.006449126359189705,21679,83,
+904,Perfluorooctane sulfonamide (ng/mL),0.006433249262548735,12432,83,
+905,Acetamiprid (ug/L),0.006389619231328525,2427,78,Not enough data
+906,3-chloro-7-hydroxy-4-methyl-2H-chromen-2-one/ol (ug/L),0.006305795918842949,2975,80,Not enough data
+907,Blood Carbon Tetrachloride (ng/mL),0.006274371386740807,23253,74,
+908,Serum hepatitis C antibody (anti-HCV),0.005980165762547451,86926,85,
+909,"Beryllium, urine (ng/mL)",0.005953755584873099,15764,80,
+910,Blood furan (ng/mL),0.005823908890884577,17674,69,
+911,Atyp lymphocytes (percent of 100 cells),0.0058214818753230535,8524,90,Not enough data
+912,Blood Tetrahydrofuran (ng/mL),0.005652278193895133,8899,69,Not enough data
+913,Monocyte percent (%),0.0056474195957954,91272,90,
+914,N-Nitrosoethylmethylamine (NMEA) (ng/L),0.0055950404819921085,2509,75,Not enough data
+915,Blood Ethyl Acetate (ng/mL),0.0055559398547186944,8924,69,Not enough data
+916,Urinary Trimethylarsine Oxide (ug/L),0.005235690086089817,13125,80,
+917,Aspartate aminotransferase AST: SI (U/L),0.005194257389152912,82643,79,
+918,Perfluorododecanoic acid (ng/mL),0.005165677501430932,16593,83,
+919,SDDSRVYR_y,0.005127431550834394,121745,90,
+920,SDDSRVYR_x,0.005127431550834394,121745,90,
+921,O-methoate (ug/L),0.004820438810710148,7657,80,Not enough data
+922,Dibenzyl phosphate (ug/L),0.0047501096913220575,6798,78,Not enough data
+923,Diaminochloroatrazine (ug/L),0.004738524450760173,2588,75,Not enough data
+924,Amount of time spent in Recovery 1 (minutes),0.0046297598217226454,9584,38,Too few unique ages
+925,Metolachlor mercapturate (ug/L),0.004611824463278569,3047,80,Not enough data
+926,N-Nitrosopyrrolidine (ng/L),0.004399271438966346,2583,75,Not enough data
+927,Excluded from exam due to selected cardiovascular conditions/symptoms,0.004083338433796158,2626,38,Too few unique ages; Not enough data
+928,Did this stroke happen in the last three months?,0.004079441567321096,316,53,Too few unique ages; Not enough data
+929,Serum rheumatoid factor antibody,0.004033992955722154,5297,32,Too few unique ages; Not enough data
+930,Blood Chlorobenzene (ng/mL),0.004019526195469525,22359,74,
+931,Acetochlor mercapturate (ug/L),0.0039947455432186585,3008,80,Not enough data
+932,Blood Chloroethane (ng/mL),0.0036419873467693487,9018,69,
+933,Serum total bilirubin (mg/dL),0.003543936293548211,82746,79,
+934,Blood Diethyl Ether (ng/mL),0.0035409164880807475,8889,69,Not enough data
+935,Serum h. pylori Cag A seropositivity,0.0034155929785176786,7465,71,Not enough data
+936,Monocyte number (1000 cells/uL),0.003293342168401714,82745,85,
+937,N-Nitrosodiethylamine (NDEA) (ng/L),0.003269699721797137,2470,75,Not enough data
+938,Spherocytosis,0.003236464490776303,8524,90,Not enough data
+939,"1,5-Diaminonaphthalene (ng/mL)",0.0032199044253101716,2758,78,Not enough data
+940,Perfluorobutane sulfonic acid (ng/mL),0.0031234192747553458,13434,83,
+941,N-acetyl-S-(dimethylphenyl)-L-cysteine (ng/mL),0.0030830296710214755,11121,83,
+942,Urinary 4-tert-octylphenol (ng/mL),0.0029864305872436825,7901,80,Not enough data
+943,Arm selected:,0.0029786809095722067,73855,79,
+944,Toxic granulation,0.0027461641133490478,8524,90,Not enough data
+945,Basophils number (1000 cells/uL),0.0026329497234915955,82745,85,
+946,Anisocytosis (variation of cell size),0.0026060266482853534,8524,90,Not enough data
+947,"2-Aminodipyrido[1,2-a:3',2'-d]imidazole (pg/mL)",0.002528686472569097,2572,75,Not enough data
+948,Ethametsulfuron methyl (ug/L),0.0024764036020046287,7413,80,Not enough data
+949,"Baseline 1st Test Spirometry, Forced Vital Capacity Quality Attribute.",0.002361338729151674,20313,74,
+950,Blood isopropylbenzene (ng/mL),0.0022450120959441877,17826,69,
+951,Blood Vinyl Bromide (ng/mL),0.0021770342288675026,9080,69,
+952,N-acetyl-s-(1-hydroxyMethyl)-2-propenyl)-L-cysteine (ng/mL),0.0021444831231872685,11209,83,
+953,Blood aaa-Trifluorotoluene (ng/mL),0.0021287195286073812,9147,69,
+954,Urinary GenX (HFPO-DA propanoateammonium salt of heptafluoropropoxy)-propanoate (ng/mL),0.0019752324868635984,2328,75,Not enough data
+955,{Do you/Does SP} now have any pain or physical problem that may prevent {you/him/her} from taking a deep breath and exhaling forcefully?,0.0018760069071874774,22079,74,
+956,"Blood trans-1,2-Dichloroethene (ng/mL)",0.0017860045051767415,13398,74,
+957,Target cells,0.0017683720597198027,8524,90,Not enough data
+958,Was {your/SP's} heart attack in the last three months?,0.0016028459263855988,21363,83,
+959,Reason for Priority 2 Stop: Technician discretion (technician notices signs of severe exertion),0.0015504546517371987,1299,38,Too few unique ages; Not enough data
+960,Status of a MEC exam,0.0015121342663030335,8832,85,Not enough data
+961,Prosulfuron (ug/L),0.0014130435340609093,7274,80,Not enough data
+962,Insulin Comment Code,0.0013506618176208907,5746,69,Not enough data
+963,"Blood 1,2,3-trichloropropane (ng/ml)",0.0011936066318974925,17692,69,
+964,Nicosulfuron (ug/L),0.0011741925168889944,7314,80,Not enough data
+965,Poikilocytosis (cell shape variation),0.0011618240677071512,8524,90,Not enough data
+966,Nucleated red blood cells,0.0011382893054414644,7523,80,Not enough data
+967,"HIV antibody test result (HIV-1, 2)",0.0011204157961631767,30408,42,Too few unique ages
+968,Oxasulfuron (ug/L),0.0011064186386731123,7529,80,Not enough data
+969,"Blood 1,1,1,2-tetrachloroethane (ng/mL)",0.0010823340114706204,17915,69,
+970,Enhancement used fourth reading,0.0010783356824809465,12714,79,
+971,Amputations?,0.0010557346305758442,8716,85,Not enough data
+972,"Blood 1,2-dibromoethane (ng/mL)",0.0010191668577771429,17632,69,
+973,Urinary Perfluoroheptane sulfonic acid (ng/mL),0.0009626620380760453,2328,75,Not enough data
+974,Sulfosulfuron (ug/L),0.0009552039901868925,7514,80,Not enough data
+975,"Blood 1,2-Dibromo-3-chloropropane (ng/mL)",0.0009164293135019985,10396,74,
+976,Blood Dibromomethane (ng/mL),0.0008559341436021883,13212,74,
+977,Metsulfuron methyl (ug/L),0.0008049069987753343,7488,80,Not enough data
+978,Serum hepatitis B surface antigen,0.0008002396383327559,62097,84,
+979,Enhancement used third reading,0.0007954185275140802,73333,79,
+980,Blood Pressure Status,0.0007885038156039137,74900,85,
+981,Foramsulfuron (ug/L),0.000783583816809208,7212,80,Not enough data
+982,Chlorsulfuron (ug/L),0.0007814658054220436,7085,80,Not enough data
+983,Thiacloprid (ug/L),0.0007769267104132949,2408,78,Not enough data
+984,Reason for Priority 2 Stop: Exercise blood pressure exceeds 260 mmHg systolic and/or 115 mmHg diastolic,0.0007645227500738816,1299,38,Too few unique ages; Not enough data
+985,"Baseline 1st Test Spirometry, Forced Expiratory Volume in the first 1.0 second Quality Attribute",0.0007469003935105523,20313,74,
+986,Thifensulfuron methyl (ug/L),0.0006706320923315356,7484,80,Not enough data
+987,Mesosulfuron methyl (ug/L),0.0006228589593714196,7555,80,Not enough data
+988,Enhancement used second reading,0.0006146327444856992,73401,79,
+989,Halosulfuron (ug/L),0.0006024923728039644,7371,80,Not enough data
+990,Sulfometuron methyl (ug/L),0.0005950090729102131,7123,80,Not enough data
+991,Have you had any of the following in the past 30 minutes?: Coffee,0.0005674260188498481,52298,78,
+992,Triflusulfuron methyl (ug/L),0.0005640575181227181,7483,80,Not enough data
+993,Rimsulfuron (ug/L),0.0005567418441140282,7407,80,Not enough data
+994,"In the past 7 days, {have you/has SP} had a cough, cold, phlegm, runny nose or other respiratory illness? Do not count allergies or hay fever.",0.0005461516888815021,41900,85,
+995,Urinary Branched isomers of perfluorooctanoate (ng/mL),0.0005453224602046669,2328,75,Not enough data
+996,Triasulfuron (ug/L),0.0005343153757827457,7337,80,Not enough data
+997,"N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine (ng/mL)",0.0005330076255367633,10996,83,
+998,Was the open chest or abdominal surgery in the last three months?,0.00047523853883424394,24423,85,
+999,Reason for Priority 2 Stop: Equipment failure,0.00046953220277567986,1299,38,Too few unique ages; Not enough data
+1000,Amount of time spent in Recovery 2 (minutes),0.00044488048824709026,9508,38,Too few unique ages
+1001,Primisulfuron methyl (ug/L),0.00043830415600232264,7127,80,Not enough data
+1002,Subscapular Skinfold Comment,0.00042130521580652225,8521,85,Not enough data
+1003,Di-o-cresyl phosphate (ug/L),0.00041760012242164635,2316,75,Not enough data
+1004,Bensulfuron methyl (ug/L),0.00039071898437459396,7483,80,Not enough data
+1005,Sickle cells,0.00032333509483983836,8524,90,Not enough data
+1006,Alanine Aminotransferase (ALT) Comment Code,0.0003114593147854894,5902,69,Not enough data
+1007,Did {you/SP} or anyone in {your/his/her} household have tuberculosis in the past year?,0.000302062601334363,21506,74,
+1008,Desethyl atrazine (ug/L),0.0002932738622930531,2482,75,Not enough data
+1009,Metamyelocytes (percent of 100 cells),0.00028302677525049447,8524,90,Not enough data
+1010,"In the past month, {have you/has SP} coughed up blood?",0.0002803736677102764,21033,74,
+1011,"Blood 1,4-Dioxane (ng/mL)",0.0002449693537712738,11342,69,
+1012,Arm selected for blood pressure monitoring,0.00024447393449977817,9871,38,Too few unique ages
+1013,Serum hepatitis D antibody (anti-HDV),0.00023867797460497275,60388,80,
+1014,Desisopropyl atrazine mercapturate (ug/L),0.00018377282332460165,2480,75,Not enough data
+1015,Have you had any of the following in the past 30 minutes?: Food,0.0001748787965935028,52298,78,
+1016,Pulse type,0.00017003725071584874,73988,79,
+1017,Serum Cytomegalovirus (CMV) IgM,0.00016057294625537732,14779,49,Too few unique ages
+1018,gender,0.00015063331233622357,121745,90,
+1019,Desisopropyl atrazine (ug/L),0.00014744381277576046,2445,75,Not enough data
+1020,Reason for Priority 2 Stop: Other specified reasons,0.00013724885438970436,1299,38,Too few unique ages; Not enough data
+1021,Reason for Priority 2 Stop: Heart rate exceeds predetermined limit during stage 1,0.00013360741154178069,1299,38,Too few unique ages; Not enough data
+1022,"Reason for Priority 2 Stop: Sudden, noticeable variability in heart rate (sudden change of more than 30 beats/minute during a stage)",0.00011964652265472608,1299,38,Too few unique ages; Not enough data
+1023,{Do you/Does SP} now have a painful ear infection?,0.0001189734026961764,5578,11,Too few unique ages; Not enough data
+1024,Gamma Glutamyl Transferase (GGT) Comment Code,0.00011730148488986458,5902,69,Not enough data
+1025,Have you had any of the following in the past 30 minutes?: Alcohol,0.00010170339573045695,52298,78,
+1026,"Blood 1,1,2,2-Tetrachloroethane (ng/mL)",9.875628097855138e-05,13340,74,
+1027,Have you had any of the following in the past 30 minutes?: Cigarettes,8.841629857003763e-05,52298,78,
+1028,N-acetyl-s-(trichlorovinyl)-L-cysteine (ng/mL),7.663657054401973e-05,11269,83,
+1029,Amount of glucose challenge drank,7.0337107856977e-05,12294,69,
+1030,Reason for Priority 2 Stop: Participant is unable to stop gripping hand rails,4.4061479267498704e-05,1299,38,Too few unique ages; Not enough data
+1031,Amount of time spent in Recovery 3 (minutes),4.266652445861219e-05,6596,38,Too few unique ages; Not enough data
+1032,Total Bilirubin Comment Code,1.172282494965593e-05,5903,69,Not enough data
+1033,Enhancement used first reading,3.736606274951093e-06,72982,79,
+1034,Myelocytes (percent of 100 cells),2.0179082184101915e-06,8524,90,Not enough data
+1035,Blood Hexachloroethane (ng/mL),2.987989982106143e-07,12588,74,
+1036,Reason for Priority 2 Stop: Significant drop (> 20 mm Hg) in systolic blood pressure during exercise,5.7686083354546724e-08,1299,38,Too few unique ages; Not enough data
